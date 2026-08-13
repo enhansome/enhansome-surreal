@@ -1,0 +1,443 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "surrealdb",
+          "description": "official driver for Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-06T15:57:27Z",
+            "owner": "surrealdb",
+            "repo": "surrealdb",
+            "stars": 32882
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "surrealdb.js",
+          "description": "official driver for JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T15:02:21Z",
+            "owner": "surrealdb",
+            "repo": "surrealdb.js",
+            "stars": 358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "surrealdb.go",
+          "description": "official driver for Golang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-31T23:40:04Z",
+            "owner": "surrealdb",
+            "repo": "surrealdb.go",
+            "stars": 316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "surrealdb.py",
+          "description": "official driver for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:44:39Z",
+            "owner": "surrealdb",
+            "repo": "surrealdb.py",
+            "stars": 265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "surrealdb.net",
+          "description": "official driver for .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-29T14:54:29Z",
+            "owner": "surrealdb",
+            "repo": "surrealdb.net",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "surrealdb.java",
+          "description": "official driver for Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-28T01:08:01Z",
+            "owner": "surrealdb",
+            "repo": "surrealdb.java",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "surrealdb.php",
+          "description": "official driver for PHP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-29T08:39:57Z",
+            "owner": "surrealdb",
+            "repo": "surrealdb.php",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "surrealdb.c",
+          "description": "official driver for C.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-27T21:05:06Z",
+            "owner": "surrealdb",
+            "repo": "surrealdb.c",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Official SDKs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "surrealdb-client-generator",
+          "description": "A handy tool that simplifies the process of generating zod schemas and TypeScript clients.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-13T13:31:22Z",
+            "owner": "sebastianwessel",
+            "repo": "surrealdb-client-generator",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "surreal-codegen",
+          "description": "SurrealDB TypeScript type-safe client generator which extends the official SurrealDB package. Matches your raw queries against your schema to generate strongly typed queries & parameters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-24T05:27:16Z",
+            "owner": "siteforge-io",
+            "repo": "surreal-codegen",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "Development tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GKE using Terraform",
+          "description": "Multicluster Cross-Regional Deployment using GKE Autopilot and Terraform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2025-02-03T17:15:50Z",
+            "owner": "dvanmali",
+            "repo": "terraform-google-surrealdb",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dokku Surrealdb",
+          "description": "A plugin to deploy SurrealDB as a Dokku plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-09-04T22:50:10Z",
+            "owner": "IgnisDa",
+            "repo": "dokku-surrealdb",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Deployment tools"
+    },
+    {
+      "description": "surrealdb/surrealdb - official Docker image.",
+      "items": [],
+      "title": "Docker images"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SurrealDB MCP Server",
+          "description": "A Model Context Protocol (MCP) server that provides a standardized interface for AI assistants to interact with a SurrealDB database. This server enables AI systems to query and manipulate data within a configured SurrealDB instance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-07-15T19:36:09Z",
+            "owner": "nsxdavid",
+            "repo": "surrealdb-mcp-server",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SurrealDB Grafana datasource",
+          "description": "The SurrealDB datasource plugin enables you to query and visualise SurrealDB data directly within Grafana, offering seamless integration and exploration of SurrealDB datasets.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-05-26T13:59:29Z",
+            "owner": "grafana-cold-storage",
+            "repo": "surrealdb-datasource",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "Integrations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "allographer",
+          "description": "A query builder and schema builder for Nim that also supports SurrealDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nim",
+            "last_commit": "2026-04-04T16:14:26Z",
+            "owner": "dumblepy",
+            "repo": "nim-allographer",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "surrealist",
+          "description": "Python synchronous client with support for HTTP and WebSocket connections, and all SurrealDB features (live queries, QL, Changes Feed).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-06T03:12:04Z",
+            "owner": "kotolex",
+            "repo": "surrealist",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "surrealdb_extra",
+          "description": "(Rust) - Query builder and orm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-24T12:08:30Z",
+            "owner": "jakin010",
+            "repo": "surrealdb_extra",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "surrealdb-zod",
+          "description": "Re-usable zod schema's for use with the JavaScript SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-17T06:18:43Z",
+            "owner": "ShadowWolf308",
+            "repo": "surrealdb-zod",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "surrealdb-valibot",
+          "description": "Re-usable valibot schema's for use with the JavaScript SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-11T10:33:24Z",
+            "owner": "ShadowWolf308",
+            "repo": "surrealdb-valibot",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SurrealDB + Go Driver Starter",
+          "description": "Salman Shah.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-09T05:52:43Z",
+            "owner": "sbshah97",
+            "repo": "surrealdb-go-starter-project",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SurrealDB + SvelteKit Auth Example",
+          "description": "A JWT-based authentication example with globally available, universal request-isolated database example implementation - Albert Marashi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-01-09T16:51:28Z",
+            "owner": "AlbertMarashi",
+            "repo": "surrealdb-svelte-auth-template",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SurrealDB + Vue Blog Starter",
+          "description": "SrWither.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2025-06-02T22:02:10Z",
+            "owner": "SrWither",
+            "repo": "surrealdb-vuejs",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Starter Kits"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "open-notebook",
+          "description": "An Open Source implementation of Notebook LM with more flexibility and features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T16:00:18Z",
+            "owner": "lfnovo",
+            "repo": "open-notebook",
+            "stars": 36754
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Podcasts to Knowledge",
+          "description": "Converts YouTube podcast/interview sessions into a structured knowledge graph with CocoIndex.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T06:50:46Z",
+            "owner": "cocoindex-io",
+            "repo": "cocoindex",
+            "stars": 11289
+          }
+        }
+      ],
+      "title": "Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dead-reckoning",
+          "description": "Navigate any Python codebase via knowledge graph + resumable LangGraph agents, powered by SurrealDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-16T18:46:05Z",
+            "owner": "atwmarshall",
+            "repo": "dead-reckoning",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "synapse",
+          "description": "Turns unstructured reflections into a persistent knowledge graph, then answers questions from that evolving graph context.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-06T09:10:16Z",
+            "owner": "jawciu",
+            "repo": "synapse",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "taro",
+          "description": "Agentic Search Harness. LangGraph ReAct agent with 8 search tools (vector, BM25, graph, hybrid RRF).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-12T21:00:23Z",
+            "owner": "j-d0g",
+            "repo": "taro",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "LangChain AI Agents"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:22:48.489Z",
+    "original_repository": "surrealdb/awesome-surreal",
+    "original_repository_sha": "72c6c1210eb5696d78c46efce10539f821a76f52",
+    "enhanced_repository": "enhansome/enhansome-surreal",
+    "enhanced_repository_description": null,
+    "title": "Awesome SurrealDB with stars"
+  }
+}
