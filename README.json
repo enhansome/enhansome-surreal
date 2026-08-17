@@ -14,7 +14,7 @@
             "last_commit": "2026-07-06T15:57:27Z",
             "owner": "surrealdb",
             "repo": "surrealdb",
-            "stars": 32894
+            "stars": 32900
           }
         },
         {
@@ -53,7 +53,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T19:21:51Z",
+            "last_commit": "2026-08-17T09:29:08Z",
             "owner": "surrealdb",
             "repo": "surrealdb.py",
             "stars": 266
@@ -70,7 +70,7 @@
             "last_commit": "2026-07-29T14:54:29Z",
             "owner": "surrealdb",
             "repo": "surrealdb.net",
-            "stars": 137
+            "stars": 138
           }
         },
         {
@@ -360,10 +360,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T16:00:18Z",
+            "last_commit": "2026-08-16T14:51:59Z",
             "owner": "lfnovo",
             "repo": "open-notebook",
-            "stars": 36891
+            "stars": 36973
           }
         },
         {
@@ -374,10 +374,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T06:50:46Z",
+            "last_commit": "2026-08-17T13:17:10Z",
             "owner": "cocoindex-io",
             "repo": "cocoindex",
-            "stars": 11327
+            "stars": 11338
           }
         }
       ],
@@ -433,7 +433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T13:11:51.548Z",
+    "last_updated": "2026-08-17T13:23:18.863Z",
     "original_repository": "surrealdb/awesome-surreal",
     "original_repository_sha": "72c6c1210eb5696d78c46efce10539f821a76f52",
     "enhanced_repository": "enhansome/enhansome-surreal",
