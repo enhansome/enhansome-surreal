@@ -77,7 +77,7 @@
 
 <!--lint ignore double-link-->
 
-A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) ⭐ 32,900 | 🐛 743 | 🌐 Rust | 📅 2026-07-06 resources, tools, utilities, and applications.
+A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) ⭐ 32,902 | 🐛 745 | 🌐 Rust | 📅 2026-08-17 resources, tools, utilities, and applications.
 
 ## Contents
 
@@ -103,11 +103,11 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) ⭐ 32,900
 
 <!--lint ignore double-link-->
 
-* [SurrealDB](https://github.com/surrealdb/surrealdb) ⭐ 32,900 | 🐛 743 | 🌐 Rust | 📅 2026-07-06 - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> is a scalable, distributed, collaborative, document-graph database, for the realtime web.
+* [SurrealDB](https://github.com/surrealdb/surrealdb) ⭐ 32,902 | 🐛 745 | 🌐 Rust | 📅 2026-08-17 - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> is a scalable, distributed, collaborative, document-graph database, for the realtime web.
 
 ## Official SDKs
 
-* [surrealdb](https://github.com/surrealdb/surrealdb/tree/main/crates/sdk) ⭐ 32,900 | 🐛 743 | 🌐 Rust | 📅 2026-07-06 - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for Rust.
+* [surrealdb](https://github.com/surrealdb/surrealdb/tree/main/crates/sdk) ⭐ 32,902 | 🐛 745 | 🌐 Rust | 📅 2026-08-17 - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for Rust.
 * [surrealdb.js](https://github.com/surrealdb/surrealdb.js) ⭐ 358 | 🐛 35 | 🌐 TypeScript | 📅 2026-08-11 - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for JavaScript.
 * [surrealdb.go](https://github.com/surrealdb/surrealdb.go) ⭐ 316 | 🐛 3 | 🌐 Go | 📅 2026-07-31 - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for Golang.
 * [surrealdb.py](https://github.com/surrealdb/surrealdb.py) ⭐ 266 | 🐛 3 | 🌐 Python | 📅 2026-08-17 - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for Python.
@@ -150,7 +150,7 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) ⭐ 32,900
 * [allographer](https://github.com/itsumura-h/nim-allographer) ⭐ 170 | 🐛 15 | 🌐 Nim | 📅 2026-04-04 - A query builder and schema builder for Nim that also supports SurrealDB.
 * [surrealist](https://github.com/kotolex/surrealist) ⭐ 29 | 🐛 2 | 🌐 Python | 📅 2026-03-06 - Python synchronous client with support for HTTP and WebSocket connections, and all SurrealDB features (live queries, QL, Changes Feed).
 * [surrealdb\_extra](https://github.com/jakin010/surrealdb_extra) ⭐ 15 | 🐛 0 | 🌐 Rust | 📅 2026-03-24 - (Rust) - Query builder and orm.
-* [surrealdb-zod](https://github.com/ShadowWolf308/surrealdb-zod) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-17 - Re-usable zod schema's for use with the JavaScript SDK.
+* [surrealdb-zod](https://github.com/ShadowWolf308/surrealdb-zod) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-17 - Re-usable zod schema's for use with the JavaScript SDK.
 * [surrealdb-valibot](https://github.com/ShadowWolf308/surrealdb-valibot) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-11 - Re-usable valibot schema's for use with the JavaScript SDK.
 * [AspNetCore.HealthChecks.SurrealDb](https://www.nuget.org/packages/AspNetCore.HealthChecks.SurrealDb/) - ASP.NET Core Health Check that verifies the ability to communicate with SurrealDb.
 * [CommunityToolkit.Aspire.Hosting.SurrealDb](https://www.nuget.org/packages/CommunityToolkit.Aspire.Hosting.SurrealDb) - Provides extension methods and resource definitions for the .NET Aspire AppHost to support running SurrealDB containers.
@@ -193,8 +193,8 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) ⭐ 32,900
 
 ## Projects
 
-* [open-notebook](https://github.com/lfnovo/open-notebook) ⭐ 36,973 | 🐛 135 | 🌐 TypeScript | 📅 2026-08-16 - An Open Source implementation of Notebook LM with more flexibility and features.
-* [Podcasts to Knowledge](https://github.com/cocoindex-io/cocoindex/tree/v1/examples/conversation_to_knowledge) ⭐ 11,338 | 🐛 73 | 🌐 Rust | 📅 2026-08-17 - Converts YouTube podcast/interview sessions into a structured knowledge graph with CocoIndex.
+* [open-notebook](https://github.com/lfnovo/open-notebook) ⭐ 37,020 | 🐛 136 | 🌐 TypeScript | 📅 2026-08-16 - An Open Source implementation of Notebook LM with more flexibility and features.
+* [Podcasts to Knowledge](https://github.com/cocoindex-io/cocoindex/tree/v1/examples/conversation_to_knowledge) ⭐ 11,345 | 🐛 73 | 🌐 Rust | 📅 2026-08-17 - Converts YouTube podcast/interview sessions into a structured knowledge graph with CocoIndex.
 
 ## LangChain AI Agents
 
@@ -204,4 +204,4 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) ⭐ 32,900
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
