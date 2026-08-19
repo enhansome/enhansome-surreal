@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 436658287,
             "language": "Rust",
-            "last_commit": "2026-08-17T13:28:45Z",
+            "last_commit": "2026-08-18T15:03:34Z",
             "owner": "surrealdb",
             "repo": "surrealdb",
-            "stars": 32902
+            "stars": 32904
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 479061200,
             "language": "TypeScript",
             "last_commit": "2026-08-11T15:02:21Z",
             "owner": "surrealdb",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 479063090,
             "language": "Go",
             "last_commit": "2026-07-31T23:40:04Z",
             "owner": "surrealdb",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 479060696,
             "language": "Python",
             "last_commit": "2026-08-17T09:29:08Z",
             "owner": "surrealdb",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 534900484,
             "language": "C#",
             "last_commit": "2026-07-29T14:54:29Z",
             "owner": "surrealdb",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 540755247,
             "language": "Java",
             "last_commit": "2026-07-28T01:08:01Z",
             "owner": "surrealdb",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 531886681,
             "language": "PHP",
             "last_commit": "2026-07-29T08:39:57Z",
             "owner": "surrealdb",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 479061013,
             "language": "C",
             "last_commit": "2026-07-27T21:05:06Z",
             "owner": "surrealdb",
@@ -119,7 +127,7 @@
       "title": "Official SDKs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 692037856,
             "language": "TypeScript",
             "last_commit": "2026-02-13T13:31:22Z",
             "owner": "sebastianwessel",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 798692451,
             "language": "Rust",
             "last_commit": "2025-02-24T05:27:16Z",
             "owner": "siteforge-io",
@@ -153,7 +163,7 @@
       "title": "Development tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -162,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 725748950,
             "language": "HCL",
             "last_commit": "2025-02-03T17:15:50Z",
             "owner": "dvanmali",
@@ -176,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 610631093,
             "language": "Shell",
             "last_commit": "2023-09-04T22:50:10Z",
             "owner": "IgnisDa",
@@ -187,12 +199,7 @@
       "title": "Deployment tools"
     },
     {
-      "description": "surrealdb/surrealdb - official Docker image.",
-      "items": [],
-      "title": "Docker images"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -201,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 962239319,
             "language": "JavaScript",
             "last_commit": "2025-07-15T19:36:09Z",
             "owner": "nsxdavid",
@@ -215,6 +223,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 656749549,
             "language": "TypeScript",
             "last_commit": "2026-05-26T13:59:29Z",
             "owner": "grafana-cold-storage",
@@ -226,7 +235,7 @@
       "title": "Integrations"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -235,6 +244,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 211533823,
             "language": "Nim",
             "last_commit": "2026-04-04T16:14:26Z",
             "owner": "dumblepy",
@@ -249,6 +259,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 752191022,
             "language": "Python",
             "last_commit": "2026-03-06T03:12:04Z",
             "owner": "kotolex",
@@ -263,6 +274,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 640982793,
             "language": "Rust",
             "last_commit": "2026-03-24T12:08:30Z",
             "owner": "jakin010",
@@ -277,6 +289,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 872387238,
             "language": "TypeScript",
             "last_commit": "2026-06-17T06:18:43Z",
             "owner": "ShadowWolf308",
@@ -291,6 +304,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 873056999,
             "language": "TypeScript",
             "last_commit": "2026-03-11T10:33:24Z",
             "owner": "ShadowWolf308",
@@ -302,7 +316,7 @@
       "title": "Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -311,6 +325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 706315111,
             "language": "Go",
             "last_commit": "2026-03-09T05:52:43Z",
             "owner": "sbshah97",
@@ -325,6 +340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 913231151,
             "language": "TypeScript",
             "last_commit": "2025-01-09T16:51:28Z",
             "owner": "AlbertMarashi",
@@ -339,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 751104801,
             "language": "Vue",
             "last_commit": "2025-06-02T22:02:10Z",
             "owner": "SrWither",
@@ -350,7 +367,7 @@
       "title": "Starter Kits"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -359,11 +376,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 876286167,
             "language": "TypeScript",
             "last_commit": "2026-08-16T14:51:59Z",
             "owner": "lfnovo",
             "repo": "open-notebook",
-            "stars": 37020
+            "stars": 37060
           }
         },
         {
@@ -373,18 +391,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 942312530,
             "language": "Rust",
-            "last_commit": "2026-08-17T13:17:10Z",
+            "last_commit": "2026-08-18T23:11:51Z",
             "owner": "cocoindex-io",
             "repo": "cocoindex",
-            "stars": 11345
+            "stars": 11352
           }
         }
       ],
       "title": "Projects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -393,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1174867400,
             "language": "Python",
             "last_commit": "2026-04-16T18:46:05Z",
             "owner": "atwmarshall",
@@ -407,6 +427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1169426943,
             "language": "Python",
             "last_commit": "2026-07-06T09:10:16Z",
             "owner": "jawciu",
@@ -421,6 +442,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1175149673,
             "language": "Python",
             "last_commit": "2026-04-12T21:00:23Z",
             "owner": "j-d0g",
@@ -433,8 +455,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:25:20.455Z",
+    "last_updated": "2026-08-19T12:54:22.949Z",
     "original_repository": "surrealdb/awesome-surreal",
+    "original_repository_id": 597145673,
     "original_repository_sha": "72c6c1210eb5696d78c46efce10539f821a76f52",
     "enhanced_repository": "enhansome/enhansome-surreal",
     "enhanced_repository_description": null,
