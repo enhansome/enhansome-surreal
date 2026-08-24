@@ -193,8 +193,8 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) ⭐ 32,924
 
 ## Projects
 
-* [open-notebook](https://github.com/lfnovo/open-notebook) ⭐ 37,514 | 🐛 139 | 🌐 TypeScript | 📅 2026-08-16 - An Open Source implementation of Notebook LM with more flexibility and features.
-* [Podcasts to Knowledge](https://github.com/cocoindex-io/cocoindex/tree/v1/examples/conversation_to_knowledge) ⭐ 11,397 | 🐛 74 | 🌐 Rust | 📅 2026-08-24 - Converts YouTube podcast/interview sessions into a structured knowledge graph with CocoIndex.
+* [open-notebook](https://github.com/lfnovo/open-notebook) ⭐ 37,518 | 🐛 139 | 🌐 TypeScript | 📅 2026-08-16 - An Open Source implementation of Notebook LM with more flexibility and features.
+* [Podcasts to Knowledge](https://github.com/cocoindex-io/cocoindex/tree/v1/examples/conversation_to_knowledge) ⭐ 11,398 | 🐛 74 | 🌐 Rust | 📅 2026-08-24 - Converts YouTube podcast/interview sessions into a structured knowledge graph with CocoIndex.
 
 ## LangChain AI Agents
 
