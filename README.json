@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T19:08:17Z",
             "owner": "surrealdb",
             "repo": "surrealdb",
-            "stars": 32920
+            "stars": 32924
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 479061200,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T12:56:58Z",
+            "last_commit": "2026-08-24T10:41:59Z",
             "owner": "surrealdb",
             "repo": "surrealdb.js",
             "stars": 358
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 479060696,
             "language": "Python",
-            "last_commit": "2026-08-23T13:09:18Z",
+            "last_commit": "2026-08-24T09:26:04Z",
             "owner": "surrealdb",
             "repo": "surrealdb.py",
-            "stars": 267
+            "stars": 268
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-05-26T13:59:29Z",
             "owner": "grafana-cold-storage",
             "repo": "surrealdb-datasource",
-            "stars": 27
+            "stars": 28
           }
         }
       ],
@@ -381,7 +381,7 @@
             "last_commit": "2026-08-16T14:51:59Z",
             "owner": "lfnovo",
             "repo": "open-notebook",
-            "stars": 37371
+            "stars": 37514
           }
         },
         {
@@ -393,10 +393,10 @@
             "archived": false,
             "id": 942312530,
             "language": "Rust",
-            "last_commit": "2026-08-18T23:11:51Z",
+            "last_commit": "2026-08-24T13:16:46Z",
             "owner": "cocoindex-io",
             "repo": "cocoindex",
-            "stars": 11390
+            "stars": 11397
           }
         }
       ],
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:13:39.866Z",
+    "last_updated": "2026-08-24T13:32:51.983Z",
     "original_repository": "surrealdb/awesome-surreal",
     "original_repository_id": 597145673,
     "original_repository_sha": "72c6c1210eb5696d78c46efce10539f821a76f52",
