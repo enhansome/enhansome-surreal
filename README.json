@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T19:08:17Z",
             "owner": "surrealdb",
             "repo": "surrealdb",
-            "stars": 32926
+            "stars": 32927
           }
         },
         {
@@ -423,7 +423,7 @@
             "last_commit": "2026-08-16T14:51:59Z",
             "owner": "lfnovo",
             "repo": "open-notebook",
-            "stars": 37571
+            "stars": 37600
           }
         },
         {
@@ -438,7 +438,7 @@
             "last_commit": "2026-08-24T22:35:07Z",
             "owner": "cocoindex-io",
             "repo": "cocoindex",
-            "stars": 11401
+            "stars": 11400
           }
         }
       ],
@@ -497,7 +497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:14:35.269Z",
+    "last_updated": "2026-08-25T13:30:25.373Z",
     "original_repository": "surrealdb/awesome-surreal",
     "original_repository_id": 597145673,
     "original_repository_sha": "72c6c1210eb5696d78c46efce10539f821a76f52",
