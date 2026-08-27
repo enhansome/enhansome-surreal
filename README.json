@@ -423,7 +423,7 @@
             "last_commit": "2026-08-16T14:51:59Z",
             "owner": "lfnovo",
             "repo": "open-notebook",
-            "stars": 37725
+            "stars": 37758
           }
         },
         {
@@ -435,10 +435,10 @@
             "archived": false,
             "id": 942312530,
             "language": "Rust",
-            "last_commit": "2026-08-27T00:53:42Z",
+            "last_commit": "2026-08-27T19:08:48Z",
             "owner": "cocoindex-io",
             "repo": "cocoindex",
-            "stars": 11413
+            "stars": 11420
           }
         }
       ],
@@ -497,7 +497,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:06:39.537Z",
+    "last_updated": "2026-08-27T22:31:45.206Z",
     "original_repository_info": {
       "archived": false,
       "id": 597145673,
