@@ -12,11 +12,12 @@
             "archived": false,
             "id": 436658287,
             "language": "Rust",
-            "last_commit": "2026-08-21T19:08:17Z",
+            "last_commit": "2026-08-28T21:43:10Z",
             "owner": "surrealdb",
             "repo": "surrealdb",
-            "stars": 32949
-          }
+            "stars": 32945
+          },
+          "first_seen": "2026-08-28T22:34:40.341Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "surrealdb",
             "repo": "surrealdb.js",
             "stars": 358
-          }
+          },
+          "first_seen": "2026-08-28T22:34:40.341Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "surrealdb",
             "repo": "surrealdb.go",
             "stars": 316
-          }
+          },
+          "first_seen": "2026-08-28T22:34:40.341Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2026-08-24T15:17:12Z",
             "owner": "surrealdb",
             "repo": "surrealdb.py",
-            "stars": 268
-          }
+            "stars": 267
+          },
+          "first_seen": "2026-08-28T22:34:40.341Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "surrealdb",
             "repo": "surrealdb.net",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-28T22:34:40.341Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "surrealdb",
             "repo": "surrealdb.java",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T22:34:40.341Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "surrealdb",
             "repo": "surrealdb.php",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T22:34:40.341Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "surrealdb",
             "repo": "surrealdb.c",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T22:34:40.341Z"
         }
       ],
       "title": "Official SDKs"
@@ -142,7 +150,8 @@
             "owner": "surrealdb",
             "repo": "surrealist",
             "stars": 1298
-          }
+          },
+          "first_seen": "2026-08-28T22:34:40.341Z"
         }
       ],
       "title": "Management interfaces"
@@ -163,7 +172,8 @@
             "owner": "duhanbalci",
             "repo": "surrealdb_flutter",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T22:34:40.341Z"
         }
       ],
       "title": "Client libraries"
@@ -184,7 +194,8 @@
             "owner": "sebastianwessel",
             "repo": "surrealdb-client-generator",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-28T22:34:40.341Z"
         },
         {
           "node_type": "item",
@@ -199,7 +210,8 @@
             "owner": "siteforge-io",
             "repo": "surreal-codegen",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T22:34:40.341Z"
         }
       ],
       "title": "Development tools"
@@ -220,7 +232,8 @@
             "owner": "dvanmali",
             "repo": "terraform-google-surrealdb",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T22:34:40.341Z"
         },
         {
           "node_type": "item",
@@ -235,7 +248,8 @@
             "owner": "IgnisDa",
             "repo": "dokku-surrealdb",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T22:34:40.341Z"
         }
       ],
       "title": "Deployment tools"
@@ -256,7 +270,8 @@
             "owner": "nsxdavid",
             "repo": "surrealdb-mcp-server",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T22:34:40.341Z"
         },
         {
           "node_type": "item",
@@ -271,7 +286,8 @@
             "owner": "grafana-cold-storage",
             "repo": "surrealdb-datasource",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T22:34:40.341Z"
         }
       ],
       "title": "Integrations"
@@ -292,7 +308,8 @@
             "owner": "dumblepy",
             "repo": "nim-allographer",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-28T22:34:40.341Z"
         },
         {
           "node_type": "item",
@@ -307,7 +324,8 @@
             "owner": "kotolex",
             "repo": "surrealist",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T22:34:40.341Z"
         },
         {
           "node_type": "item",
@@ -322,7 +340,8 @@
             "owner": "jakin010",
             "repo": "surrealdb_extra",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T22:34:40.341Z"
         },
         {
           "node_type": "item",
@@ -337,7 +356,8 @@
             "owner": "ShadowWolf308",
             "repo": "surrealdb-zod",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T22:34:40.341Z"
         },
         {
           "node_type": "item",
@@ -352,7 +372,8 @@
             "owner": "ShadowWolf308",
             "repo": "surrealdb-valibot",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T22:34:40.341Z"
         }
       ],
       "title": "Libraries"
@@ -373,7 +394,8 @@
             "owner": "sbshah97",
             "repo": "surrealdb-go-starter-project",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T22:34:40.341Z"
         },
         {
           "node_type": "item",
@@ -388,7 +410,8 @@
             "owner": "AlbertMarashi",
             "repo": "surrealdb-svelte-auth-template",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T22:34:40.341Z"
         },
         {
           "node_type": "item",
@@ -403,7 +426,8 @@
             "owner": "SrWither",
             "repo": "surrealdb-vuejs",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T22:34:40.341Z"
         }
       ],
       "title": "Starter Kits"
@@ -423,8 +447,9 @@
             "last_commit": "2026-08-16T14:51:59Z",
             "owner": "lfnovo",
             "repo": "open-notebook",
-            "stars": 37758
-          }
+            "stars": 37839
+          },
+          "first_seen": "2026-08-28T22:34:40.341Z"
         },
         {
           "node_type": "item",
@@ -435,11 +460,12 @@
             "archived": false,
             "id": 942312530,
             "language": "Rust",
-            "last_commit": "2026-08-27T19:08:48Z",
+            "last_commit": "2026-08-28T22:26:54Z",
             "owner": "cocoindex-io",
             "repo": "cocoindex",
-            "stars": 11420
-          }
+            "stars": 11428
+          },
+          "first_seen": "2026-08-28T22:34:40.341Z"
         }
       ],
       "title": "Projects"
@@ -460,7 +486,8 @@
             "owner": "atwmarshall",
             "repo": "dead-reckoning",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T22:34:40.341Z"
         },
         {
           "node_type": "item",
@@ -475,7 +502,8 @@
             "owner": "jawciu",
             "repo": "synapse",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T22:34:40.341Z"
         },
         {
           "node_type": "item",
@@ -490,14 +518,15 @@
             "owner": "j-d0g",
             "repo": "taro",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T22:34:40.341Z"
         }
       ],
       "title": "LangChain AI Agents"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:31:45.206Z",
+    "last_updated": "2026-08-28T22:34:40.341Z",
     "original_repository_info": {
       "archived": false,
       "id": 597145673,
