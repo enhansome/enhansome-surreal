@@ -10,12 +10,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+            "homepage": "https://surrealdb.com",
             "id": 436658287,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T21:43:10Z",
+            "open_issues": 743,
             "owner": "surrealdb",
             "repo": "surrealdb",
-            "stars": 32945
+            "stars": 32945,
+            "topics": [
+              "backend-as-a-service",
+              "cloud-database",
+              "database",
+              "database-as-a-service",
+              "developer-tools",
+              "devtools",
+              "distributed",
+              "distributed-database",
+              "document-database",
+              "graph-database",
+              "iot-database",
+              "nosql",
+              "realtime-database",
+              "serverless",
+              "sql",
+              "surreal",
+              "surrealdb",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
         },
@@ -26,12 +50,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SurrealDB SDK for JavaScript",
+            "homepage": "https://surrealdb.com",
             "id": 479061200,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T10:41:59Z",
+            "open_issues": 37,
             "owner": "surrealdb",
             "repo": "surrealdb.js",
-            "stars": 358
+            "stars": 358,
+            "topics": [
+              "database",
+              "database-connector",
+              "deno",
+              "deno-library",
+              "deno-module",
+              "iot-database",
+              "javascript",
+              "javascript-library",
+              "javascript-module",
+              "realtime-database",
+              "surreal",
+              "surrealdb"
+            ]
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
         },
@@ -42,12 +84,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SurrealDB SDK for Golang",
+            "homepage": "https://surrealdb.com",
             "id": 479063090,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-31T23:40:04Z",
+            "open_issues": 3,
             "owner": "surrealdb",
             "repo": "surrealdb.go",
-            "stars": 316
+            "stars": 316,
+            "topics": [
+              "database",
+              "database-connector",
+              "golang",
+              "golang-library",
+              "golang-module",
+              "iot-database",
+              "realtime-database",
+              "surreal",
+              "surrealdb"
+            ]
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
         },
@@ -58,12 +115,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SurrealDB SDK for Python",
+            "homepage": "https://surrealdb.com",
             "id": 479060696,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T15:17:12Z",
+            "open_issues": 4,
             "owner": "surrealdb",
             "repo": "surrealdb.py",
-            "stars": 267
+            "stars": 267,
+            "topics": [
+              "database",
+              "database-connector",
+              "database-sdk",
+              "iot-database",
+              "python",
+              "python-library",
+              "python-module",
+              "realtime-database",
+              "surreal",
+              "surrealdb"
+            ]
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
         },
@@ -74,12 +147,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SurrealDB SDK for .NET",
+            "homepage": "https://surrealdb.com",
             "id": 534900484,
             "language": "C#",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-29T14:54:29Z",
+            "open_issues": 32,
             "owner": "surrealdb",
             "repo": "surrealdb.net",
-            "stars": 138
+            "stars": 138,
+            "topics": [
+              "database-connector",
+              "dotnet",
+              "dotnet-library",
+              "iot-database",
+              "realtime-database",
+              "surreal",
+              "surrealdb"
+            ]
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
         },
@@ -90,12 +176,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SurrealDB SDK for Java",
+            "homepage": "https://surrealdb.com",
             "id": 540755247,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-28T01:08:01Z",
+            "open_issues": 10,
             "owner": "surrealdb",
             "repo": "surrealdb.java",
-            "stars": 88
+            "stars": 89,
+            "topics": [
+              "database",
+              "database-connector",
+              "iot-database",
+              "java",
+              "java-library",
+              "realtime-database",
+              "surreal",
+              "surrealdb"
+            ]
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
         },
@@ -106,12 +206,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SurrealDB SDK for PHP",
+            "homepage": null,
             "id": 531886681,
             "language": "PHP",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-29T08:39:57Z",
+            "open_issues": 0,
             "owner": "surrealdb",
             "repo": "surrealdb.php",
-            "stars": 70
+            "stars": 70,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
         },
@@ -122,12 +227,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SurrealDB driver for C",
+            "homepage": "https://surrealdb.com",
             "id": 479061013,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-27T21:05:06Z",
+            "open_issues": 10,
             "owner": "surrealdb",
             "repo": "surrealdb.c",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "c-library",
+              "c-module",
+              "database",
+              "database-connector",
+              "iot-database",
+              "realtime-database",
+              "surreal",
+              "surrealdb"
+            ]
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
         }
@@ -144,12 +263,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Surrealist is the ultimate way to visually manage your SurrealDB database",
+            "homepage": "https://app.surrealdb.com",
             "id": 577076286,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-10T19:42:55Z",
+            "open_issues": 53,
             "owner": "surrealdb",
             "repo": "surrealist",
-            "stars": 1298
+            "stars": 1298,
+            "topics": [
+              "authentication",
+              "database",
+              "desktop",
+              "linux",
+              "macos",
+              "react",
+              "rust",
+              "schema",
+              "sql",
+              "surql",
+              "surrealdb",
+              "surrealql",
+              "tauri",
+              "webapp",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
         }
@@ -166,12 +306,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SurrealDB client written in pure dart. auto reconnect, typed functions",
+            "homepage": null,
             "id": 537317273,
             "language": "Dart",
+            "license": "MIT",
             "last_commit": "2026-03-06T11:34:45Z",
+            "open_issues": 3,
             "owner": "duhanbalci",
             "repo": "surrealdb_flutter",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "surrealdb",
+              "surrealdb-driver"
+            ]
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
         }
@@ -188,12 +336,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool which generates a typescript client for SurrealDB and zod schema of a given database",
+            "homepage": null,
             "id": 692037856,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-13T13:31:22Z",
+            "open_issues": 1,
             "owner": "sebastianwessel",
             "repo": "surrealdb-client-generator",
-            "stars": 113
+            "stars": 113,
+            "topics": [
+              "client",
+              "client-generator",
+              "database",
+              "generator",
+              "schema",
+              "surrealdb",
+              "typescript",
+              "zod"
+            ]
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
         },
@@ -204,12 +366,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SurrealDB code generation library inspired by GraphQL codegen tooling",
+            "homepage": "https://siteforge.io",
             "id": 798692451,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-02-24T05:27:16Z",
+            "open_issues": 2,
             "owner": "siteforge-io",
             "repo": "surreal-codegen",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "codegen",
+              "codegenerator",
+              "rust",
+              "surrealdb",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
         }
@@ -226,12 +399,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Terraform repository to setup a SurrealDB GKE cluster on GCP",
+            "homepage": null,
             "id": 725748950,
             "language": "HCL",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-03T17:15:50Z",
+            "open_issues": 0,
             "owner": "dvanmali",
             "repo": "terraform-google-surrealdb",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
         },
@@ -242,12 +420,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " a surrealdb plugin for dokku",
+            "homepage": null,
             "id": 610631093,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2023-09-04T22:50:10Z",
+            "open_issues": 3,
             "owner": "IgnisDa",
             "repo": "dokku-surrealdb",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
         }
@@ -264,12 +447,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 962239319,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-07-15T19:36:09Z",
+            "open_issues": 5,
             "owner": "nsxdavid",
             "repo": "surrealdb-mcp-server",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
         },
@@ -280,12 +468,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A datasource plugin for SurrealDB",
+            "homepage": null,
             "id": 656749549,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-26T13:59:29Z",
+            "open_issues": 1,
             "owner": "grafana-cold-storage",
             "repo": "surrealdb-datasource",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "grafana",
+              "grafana-datasource",
+              "group-datasources",
+              "surrealdb"
+            ]
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
         }
@@ -302,12 +500,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A query_builder/ORM library inspired by Laravel/PHP and Orator/Python for Nim",
+            "homepage": null,
             "id": 211533823,
             "language": "Nim",
+            "license": "MIT",
             "last_commit": "2026-04-04T16:14:26Z",
+            "open_issues": 15,
             "owner": "dumblepy",
             "repo": "nim-allographer",
-            "stars": 170
+            "stars": 170,
+            "topics": [
+              "database",
+              "mariadb",
+              "mysql",
+              "nim",
+              "nim-lang",
+              "orm",
+              "postgresql",
+              "query-builder",
+              "rdb",
+              "sqlite3",
+              "surrealdb"
+            ]
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
         },
@@ -318,12 +533,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python library to work with SurrealDB",
+            "homepage": null,
             "id": 752191022,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-06T03:12:04Z",
+            "open_issues": 2,
             "owner": "kotolex",
             "repo": "surrealist",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "python",
+              "surreal",
+              "surrealdb",
+              "surrealdb-database"
+            ]
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
         },
@@ -334,12 +559,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 640982793,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-03-24T12:08:30Z",
+            "open_issues": 0,
             "owner": "jakin010",
             "repo": "surrealdb_extra",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
         },
@@ -350,12 +580,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Re-useable zod schema's for use with SurrealDB sdk",
+            "homepage": null,
             "id": 872387238,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-17T06:18:43Z",
+            "open_issues": 0,
             "owner": "ShadowWolf308",
             "repo": "surrealdb-zod",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
         },
@@ -366,12 +601,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Re-useable valibot schema's for use with SurrealDB sdk",
+            "homepage": null,
             "id": 873056999,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-11T10:33:24Z",
+            "open_issues": 0,
             "owner": "ShadowWolf308",
             "repo": "surrealdb-valibot",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
         }
@@ -388,12 +628,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SurrealDB Starter Project using Go",
+            "homepage": null,
             "id": 706315111,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-09T05:52:43Z",
+            "open_issues": 4,
             "owner": "sbshah97",
             "repo": "surrealdb-go-starter-project",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
         },
@@ -404,12 +649,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A SurrealDB authentication boilerplate template using server-side JWT tokens",
+            "homepage": null,
             "id": 913231151,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-01-09T16:51:28Z",
+            "open_issues": 0,
             "owner": "AlbertMarashi",
             "repo": "surrealdb-svelte-auth-template",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
         },
@@ -420,12 +670,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 751104801,
             "language": "Vue",
+            "license": null,
             "last_commit": "2025-06-02T22:02:10Z",
+            "open_issues": 0,
             "owner": "SrWither",
             "repo": "surrealdb-vuejs",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
         }
@@ -442,12 +697,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+            "homepage": "https://www.open-notebook.ai",
             "id": 876286167,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-16T14:51:59Z",
+            "open_issues": 142,
             "owner": "lfnovo",
             "repo": "open-notebook",
-            "stars": 37839
+            "stars": 37853,
+            "topics": [
+              "assistant",
+              "learning",
+              "note-taking",
+              "notebook",
+              "notes-app",
+              "self-learning"
+            ]
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
         },
@@ -458,12 +725,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
+            "homepage": "https://cocoindex.io",
             "id": 942312530,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:26:54Z",
+            "open_issues": 74,
             "owner": "cocoindex-io",
             "repo": "cocoindex",
-            "stars": 11428
+            "stars": 11430,
+            "topics": [
+              "agentic-data-framework",
+              "ai",
+              "ai-agents",
+              "change-data-capture",
+              "codebase-intelligence",
+              "context-engineering",
+              "data-engineering",
+              "data-indexing",
+              "data-processing",
+              "etl",
+              "help-wanted",
+              "indexing",
+              "knowledge-graph",
+              "llm",
+              "long-horizon-agent",
+              "python",
+              "rag",
+              "real-time",
+              "rust",
+              "semantic-search"
+            ]
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
         }
@@ -480,12 +773,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Navigate any Python codebase via knowledge graph + resumable LangGraph agents, powered by SurrealDB",
+            "homepage": null,
             "id": 1174867400,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-16T18:46:05Z",
+            "open_issues": 3,
             "owner": "atwmarshall",
             "repo": "dead-reckoning",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
         },
@@ -496,12 +794,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Journaling that remembers and reasons in context.  Synapse is a memory-first reflection agent built for the London LangChain x SurrealDB Hackathon. It turns unstructured reflections into a persistent knowledge graph, then answers questions from that evolving graph context.",
+            "homepage": "https://synapse-frontend-vdmo.onrender.com",
             "id": 1169426943,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-06T09:10:16Z",
+            "open_issues": 0,
             "owner": "jawciu",
             "repo": "synapse",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
         },
@@ -512,12 +815,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Taro.ai - SurrealDB Agentic Search Harness. LangGraph ReAct agent with 8 search tools (vector, BM25, graph, hybrid RRF). Built at LangChain x SurrealDB Hackathon 2026.",
+            "homepage": null,
             "id": 1175149673,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-12T21:00:23Z",
+            "open_issues": 0,
             "owner": "j-d0g",
             "repo": "taro",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
         }
@@ -526,15 +834,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:34:40.341Z",
+    "last_updated": "2026-08-29T04:40:21.111Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of SurrealDB resources, tools, utilities, and applications.",
+      "homepage": "https://surrealdb.com",
       "id": 597145673,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-04-09T18:54:54Z",
+      "open_issues": 9,
       "owner": "surrealdb",
       "repo": "awesome-surreal",
-      "stars": 560
+      "stars": 560,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hacktoberfest",
+        "surreal",
+        "surrealdb"
+      ]
     },
     "original_repository_sha": "72c6c1210eb5696d78c46efce10539f821a76f52",
     "enhanced_repository": "enhansome/enhansome-surreal",
