@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-09-07T09:08:38Z",
-            "open_issues": 756,
+            "open_issues": 757,
             "owner": "surrealdb",
             "repo": "surrealdb",
-            "stars": 33005,
+            "stars": 33013,
             "topics": [
               "backend-as-a-service",
               "cloud-database",
@@ -89,8 +89,8 @@
             "id": 479063090,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T13:43:26Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-12T02:16:52Z",
+            "open_issues": 4,
             "owner": "surrealdb",
             "repo": "surrealdb.go",
             "stars": 317,
@@ -153,7 +153,7 @@
             "language": "C#",
             "license": "Apache-2.0",
             "last_commit": "2026-07-29T14:54:29Z",
-            "open_issues": 32,
+            "open_issues": 33,
             "owner": "surrealdb",
             "repo": "surrealdb.net",
             "stars": 139,
@@ -385,6 +385,27 @@
             ]
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
+        },
+        {
+          "node_type": "item",
+          "title": "SurrealDb.Net.Design",
+          "description": "An design-time CLI for generating C# record models from a SurrealDB database schema. Get it via Nuget",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "CLI Tool which allows to use 'DB First' approach and generate C# classes for surreal db",
+            "homepage": null,
+            "id": 1277113501,
+            "language": "C#",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-13T06:24:36Z",
+            "open_issues": 0,
+            "owner": "NodKane",
+            "repo": "surrealdb.net.design",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-09-12T15:46:24.798Z"
         }
       ],
       "title": "Development tools"
@@ -440,6 +461,39 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "surreal-better-auth",
+          "description": "SurrealDB adapter for Better-Auth - Oskar Gmerek",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "SurrealDB Adapter for Better Auth. Use your favorite database as a Better-Auth storage.",
+            "homepage": "https://www.npmjs.com/package/surreal-better-auth",
+            "id": 904416322,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-09-10T13:08:06Z",
+            "open_issues": 3,
+            "owner": "oskar-gmerek",
+            "repo": "surreal-better-auth",
+            "stars": 77,
+            "topics": [
+              "adapter",
+              "adapters",
+              "auth",
+              "authentication",
+              "authorization",
+              "better-auth",
+              "surreal",
+              "surrealdb",
+              "surrealdb-auth",
+              "typescript",
+              "typescript-auth"
+            ]
+          },
+          "first_seen": "2026-09-12T15:46:24.798Z"
+        },
         {
           "node_type": "item",
           "title": "SurrealDB MCP Server",
@@ -614,6 +668,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
+        },
+        {
+          "node_type": "item",
+          "title": "sqlalchemy-surrealdb",
+          "description": "A SQLAlchemy dialect for SurrealDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "SQLAlchemy Dialect for SurrealDB",
+            "homepage": null,
+            "id": 1210281225,
+            "language": "Python",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-04-16T07:48:20Z",
+            "open_issues": 0,
+            "owner": "noctisynth",
+            "repo": "sqlalchemy-surrealdb",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-09-12T15:46:24.798Z"
         }
       ],
       "title": "Libraries"
@@ -703,10 +778,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-11T01:24:00Z",
-            "open_issues": 111,
+            "open_issues": 112,
             "owner": "lfnovo",
             "repo": "open-notebook",
-            "stars": 38576,
+            "stars": 38634,
             "topics": [
               "assistant",
               "learning",
@@ -734,7 +809,7 @@
             "open_issues": 83,
             "owner": "cocoindex-io",
             "repo": "cocoindex",
-            "stars": 11530,
+            "stars": 11535,
             "topics": [
               "agentic-data-framework",
               "ai",
@@ -759,6 +834,41 @@
             ]
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Inite Brain",
+          "description": "Open-source memory layer for LLM agents built on SurrealDB. Bitemporal knowledge graph with facts/episodes/procedural tiers, hybrid vector + BM25 + multi-hop retrieval, conflict resolution, GDPR forget. MCP server, Streamable HTTP, AGPL-3.0.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source bitemporal knowledge graph — long-term memory for AI agents. Hybrid retrieval, conflict-aware ingest, GDPR forget. REST + native MCP.",
+            "homepage": "https://brain.inite.ai",
+            "id": 1230223069,
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-09-12T11:39:00Z",
+            "open_issues": 9,
+            "owner": "inite-ai",
+            "repo": "inite-brain-service",
+            "stars": 36,
+            "topics": [
+              "agent-memory",
+              "ai-agents",
+              "bitemporal",
+              "knowledge-graph",
+              "llm",
+              "mcp",
+              "nestjs",
+              "rag",
+              "self-hosted",
+              "semantic-memory",
+              "surrealdb",
+              "typescript",
+              "vector-search"
+            ]
+          },
+          "first_seen": "2026-09-12T15:46:24.798Z"
         }
       ],
       "title": "Projects"
@@ -834,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T16:43:11.185Z",
+    "last_updated": "2026-09-12T15:46:24.798Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of SurrealDB resources, tools, utilities, and applications.",
@@ -842,8 +952,8 @@
       "id": 597145673,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-04-09T18:54:54Z",
-      "open_issues": 9,
+      "last_commit": "2026-09-12T00:03:38Z",
+      "open_issues": 2,
       "owner": "surrealdb",
       "repo": "awesome-surreal",
       "stars": 561,
@@ -855,7 +965,7 @@
         "surrealdb"
       ]
     },
-    "original_repository_sha": "72c6c1210eb5696d78c46efce10539f821a76f52",
+    "original_repository_sha": "6788b65998c8b794f4bb9632de91a84d3396e328",
     "enhanced_repository": "enhansome/enhansome-surreal",
     "enhanced_repository_description": null,
     "title": "Awesome SurrealDB with stars"
