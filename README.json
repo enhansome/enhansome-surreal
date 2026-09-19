@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-09-14T23:11:22Z",
-            "open_issues": 720,
+            "open_issues": 719,
             "owner": "surrealdb",
             "repo": "surrealdb",
-            "stars": 33040,
+            "stars": 33042,
             "topics": [
               "backend-as-a-service",
               "cloud-database",
@@ -425,7 +425,7 @@
             "id": 725748950,
             "language": "HCL",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T05:53:49Z",
+            "last_commit": "2026-09-18T18:19:35Z",
             "open_issues": 0,
             "owner": "dvanmali",
             "repo": "terraform-google-surrealdb",
@@ -778,10 +778,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-18T01:46:29Z",
-            "open_issues": 115,
+            "open_issues": 118,
             "owner": "lfnovo",
             "repo": "open-notebook",
-            "stars": 39129,
+            "stars": 39183,
             "topics": [
               "assistant",
               "learning",
@@ -809,7 +809,7 @@
             "open_issues": 86,
             "owner": "cocoindex-io",
             "repo": "cocoindex",
-            "stars": 11576,
+            "stars": 11577,
             "topics": [
               "agentic-data-framework",
               "ai",
@@ -847,11 +847,11 @@
             "id": 1230223069,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-18T16:28:35Z",
-            "open_issues": 27,
+            "last_commit": "2026-09-19T15:57:05Z",
+            "open_issues": 34,
             "owner": "inite-ai",
             "repo": "inite-brain-service",
-            "stars": 38,
+            "stars": 39,
             "topics": [
               "agent-memory",
               "ai-agents",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T16:40:45.243Z",
+    "last_updated": "2026-09-19T16:01:34.511Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of SurrealDB resources, tools, utilities, and applications.",
@@ -956,7 +956,7 @@
       "open_issues": 1,
       "owner": "surrealdb",
       "repo": "awesome-surreal",
-      "stars": 562,
+      "stars": 563,
       "topics": [
         "awesome",
         "awesome-list",
