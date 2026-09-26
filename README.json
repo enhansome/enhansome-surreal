@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-09-14T23:11:22Z",
-            "open_issues": 675,
+            "open_issues": 677,
             "owner": "surrealdb",
             "repo": "surrealdb",
-            "stars": 33070,
+            "stars": 33072,
             "topics": [
               "backend-as-a-service",
               "cloud-database",
@@ -778,10 +778,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-20T21:49:41Z",
-            "open_issues": 123,
+            "open_issues": 124,
             "owner": "lfnovo",
             "repo": "open-notebook",
-            "stars": 39494,
+            "stars": 39521,
             "topics": [
               "assistant",
               "learning",
@@ -806,10 +806,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-09-24T19:56:12Z",
-            "open_issues": 87,
+            "open_issues": 88,
             "owner": "cocoindex-io",
             "repo": "cocoindex",
-            "stars": 11596,
+            "stars": 11601,
             "topics": [
               "agentic-data-framework",
               "ai",
@@ -847,8 +847,8 @@
             "id": 1230223069,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-25T17:14:26Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-26T15:34:36Z",
+            "open_issues": 10,
             "owner": "inite-ai",
             "repo": "inite-brain-service",
             "stars": 40,
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T17:29:33.668Z",
+    "last_updated": "2026-09-26T16:41:40.516Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of SurrealDB resources, tools, utilities, and applications.",
