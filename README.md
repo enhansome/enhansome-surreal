@@ -77,7 +77,7 @@
 
 <!--lint ignore double-link-->
 
-A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) ⭐ 33,083 | 🐛 682 | 🌐 Rust | 📅 2026-09-28 resources, tools, utilities, and applications.
+A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) ⭐ 33,087 | 🐛 694 | 🌐 Rust | 📅 2026-09-28 resources, tools, utilities, and applications.
 
 ## Contents
 
@@ -104,15 +104,15 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) ⭐ 33,083
 
 <!--lint ignore double-link-->
 
-* [SurrealDB](https://github.com/surrealdb/surrealdb) ⭐ 33,083 | 🐛 682 | 🌐 Rust | 📅 2026-09-28 - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> is a scalable, distributed, collaborative, document-graph database, for the realtime web.
+* [SurrealDB](https://github.com/surrealdb/surrealdb) ⭐ 33,087 | 🐛 694 | 🌐 Rust | 📅 2026-09-28 - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> is a scalable, distributed, collaborative, document-graph database, for the realtime web.
 
 ## Official SDKs
 
-* [surrealdb](https://github.com/surrealdb/surrealdb/tree/main/crates/sdk) ⭐ 33,083 | 🐛 682 | 🌐 Rust | 📅 2026-09-28 - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for Rust.
-* [surrealdb.js](https://github.com/surrealdb/surrealdb.js) ⭐ 358 | 🐛 40 | 🌐 TypeScript | 📅 2026-09-11 - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for JavaScript.
+* [surrealdb](https://github.com/surrealdb/surrealdb/tree/main/crates/sdk) ⭐ 33,087 | 🐛 694 | 🌐 Rust | 📅 2026-09-28 - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for Rust.
+* [surrealdb.js](https://github.com/surrealdb/surrealdb.js) ⭐ 358 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-30 - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for JavaScript.
 * [surrealdb.go](https://github.com/surrealdb/surrealdb.go) ⭐ 318 | 🐛 6 | 🌐 Go | 📅 2026-09-23 - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for Golang.
 * [surrealdb.py](https://github.com/surrealdb/surrealdb.py) ⭐ 270 | 🐛 11 | 🌐 Python | 📅 2026-09-28 - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for Python.
-* [surrealdb.net](https://github.com/surrealdb/surrealdb.net) ⭐ 140 | 🐛 34 | 🌐 C# | 📅 2026-07-29 - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for .NET.
+* [surrealdb.net](https://github.com/surrealdb/surrealdb.net) ⭐ 139 | 🐛 34 | 🌐 C# | 📅 2026-07-29 - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for .NET.
 * [surrealdb.java](https://github.com/surrealdb/surrealdb.java) ⭐ 90 | 🐛 5 | 🌐 Java | 📅 2026-09-04 - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for Java.
 * [surrealdb.php](https://github.com/surrealdb/surrealdb.php) ⭐ 70 | 🐛 0 | 🌐 PHP | 📅 2026-07-29 - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for PHP.
 * [surrealdb.c](https://github.com/surrealdb/surrealdb.c) ⭐ 24 | 🐛 10 | 🌐 C | 📅 2026-07-27 - <a href="https://surrealdb.com#gh-dark-mode-only" target="_blank"><img src="/img/white/text.svg" height="12" alt="SurrealDB"></a> <a href="https://surrealdb.com#gh-light-mode-only" target="_blank"><img src="/img/black/text.svg" height="12" alt="SurrealDB"></a> official driver for C.
@@ -134,7 +134,7 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) ⭐ 33,083
 
 ## Deployment tools
 
-* [GKE using Terraform](https://github.com/dvanmali/terraform-google-surrealdb) ⭐ 10 | 🐛 0 | 🌐 HCL | 📅 2026-09-24 - Multicluster Cross-Regional Deployment using GKE Autopilot and [Terraform](https://www.terraform.io/)
+* [GKE using Terraform](https://github.com/dvanmali/terraform-google-surrealdb) ⭐ 10 | 🐛 0 | 🌐 HCL | 📅 2026-09-29 - Multicluster Cross-Regional Deployment using GKE Autopilot and [Terraform](https://www.terraform.io/)
 * [Dokku Surrealdb](https://github.com/IgnisDa/dokku-surrealdb) ⭐ 8 | 🐛 3 | 🌐 Shell | 📅 2023-09-04 - A plugin to deploy SurrealDB as a [Dokku](https://dokku.com) plugin.
 
 ## Docker images
@@ -203,8 +203,8 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) ⭐ 33,083
 
 ## Projects
 
-* [open-notebook](https://github.com/lfnovo/open-notebook) ⭐ 39,631 | 🐛 125 | 🌐 TypeScript | 📅 2026-09-27 - An Open Source implementation of Notebook LM with more flexibility and features.
-* [Podcasts to Knowledge](https://github.com/cocoindex-io/cocoindex/tree/v1/examples/conversation_to_knowledge) ⭐ 11,630 | 🐛 92 | 🌐 Rust | 📅 2026-09-28 - Converts YouTube podcast/interview sessions into a structured knowledge graph with CocoIndex.
+* [open-notebook](https://github.com/lfnovo/open-notebook) ⭐ 39,657 | 🐛 125 | 🌐 TypeScript | 📅 2026-09-27 - An Open Source implementation of Notebook LM with more flexibility and features.
+* [Podcasts to Knowledge](https://github.com/cocoindex-io/cocoindex/tree/v1/examples/conversation_to_knowledge) ⭐ 11,638 | 🐛 93 | 🌐 Rust | 📅 2026-09-30 - Converts YouTube podcast/interview sessions into a structured knowledge graph with CocoIndex.
 * [Inite Brain](https://github.com/inite-ai/inite-brain-service) ⭐ 40 | 🐛 22 | 🌐 TypeScript | 📅 2026-09-29 - Open-source memory layer for LLM agents built on SurrealDB. Bitemporal knowledge graph with facts/episodes/procedural tiers, hybrid vector + BM25 + multi-hop retrieval, conflict resolution, GDPR forget. MCP server, Streamable HTTP, AGPL-3.0.
 
 ## LangChain AI Agents
@@ -215,4 +215,4 @@ A curated list of [SurrealDB](https://github.com/surrealdb/surrealdb) ⭐ 33,083
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
