@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-10-08T11:41:24Z",
-            "open_issues": 674,
+            "open_issues": 669,
             "owner": "surrealdb",
             "repo": "surrealdb",
-            "stars": 33113,
+            "stars": 33114,
             "topics": [
               "backend-as-a-service",
               "cloud-database",
@@ -55,8 +55,8 @@
             "id": 479061200,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T12:59:16Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-11T13:36:41Z",
+            "open_issues": 3,
             "owner": "surrealdb",
             "repo": "surrealdb.js",
             "stars": 357,
@@ -156,7 +156,7 @@
             "open_issues": 34,
             "owner": "surrealdb",
             "repo": "surrealdb.net",
-            "stars": 139,
+            "stars": 137,
             "topics": [
               "database-connector",
               "dotnet",
@@ -185,7 +185,7 @@
             "open_issues": 7,
             "owner": "surrealdb",
             "repo": "surrealdb.java",
-            "stars": 90,
+            "stars": 89,
             "topics": [
               "database",
               "database-connector",
@@ -778,10 +778,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-05T02:29:31Z",
-            "open_issues": 156,
+            "open_issues": 157,
             "owner": "lfnovo",
             "repo": "open-notebook",
-            "stars": 40027,
+            "stars": 40066,
             "topics": [
               "assistant",
               "learning",
@@ -805,11 +805,11 @@
             "id": 942312530,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T07:05:43Z",
-            "open_issues": 103,
+            "last_commit": "2026-10-11T08:12:23Z",
+            "open_issues": 105,
             "owner": "cocoindex-io",
             "repo": "cocoindex",
-            "stars": 11664,
+            "stars": 11670,
             "topics": [
               "agentic-data-framework",
               "ai",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T17:26:35.373Z",
+    "last_updated": "2026-10-11T17:45:42.771Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of SurrealDB resources, tools, utilities, and applications.",
