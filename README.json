@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-10-08T11:41:24Z",
-            "open_issues": 669,
+            "open_issues": 657,
             "owner": "surrealdb",
             "repo": "surrealdb",
-            "stars": 33114,
+            "stars": 33121,
             "topics": [
               "backend-as-a-service",
               "cloud-database",
@@ -641,7 +641,7 @@
             "license": "MIT",
             "last_commit": "2026-06-17T06:18:43Z",
             "open_issues": 0,
-            "owner": "ShadowWolf308",
+            "owner": "Astrolaxis",
             "repo": "surrealdb-zod",
             "stars": 5,
             "topics": []
@@ -662,7 +662,7 @@
             "license": "MIT",
             "last_commit": "2026-03-11T10:33:24Z",
             "open_issues": 0,
-            "owner": "ShadowWolf308",
+            "owner": "Astrolaxis",
             "repo": "surrealdb-valibot",
             "stars": 3,
             "topics": []
@@ -777,11 +777,11 @@
             "id": 876286167,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T02:29:31Z",
-            "open_issues": 157,
+            "last_commit": "2026-10-11T21:45:32Z",
+            "open_issues": 161,
             "owner": "lfnovo",
             "repo": "open-notebook",
-            "stars": 40066,
+            "stars": 40112,
             "topics": [
               "assistant",
               "learning",
@@ -805,11 +805,11 @@
             "id": 942312530,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T08:12:23Z",
-            "open_issues": 105,
+            "last_commit": "2026-10-12T19:58:36Z",
+            "open_issues": 100,
             "owner": "cocoindex-io",
             "repo": "cocoindex",
-            "stars": 11670,
+            "stars": 11679,
             "topics": [
               "agentic-data-framework",
               "ai",
@@ -944,7 +944,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T17:45:42.771Z",
+    "last_updated": "2026-10-12T21:22:48.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of SurrealDB resources, tools, utilities, and applications.",
