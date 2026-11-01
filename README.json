@@ -19,7 +19,7 @@
             "open_issues": 421,
             "owner": "surrealdb",
             "repo": "surrealdb",
-            "stars": 33255,
+            "stars": 33256,
             "topics": [
               "backend-as-a-service",
               "cloud-database",
@@ -781,7 +781,7 @@
             "open_issues": 191,
             "owner": "lfnovo",
             "repo": "open-notebook",
-            "stars": 41071,
+            "stars": 41274,
             "topics": [
               "assistant",
               "learning",
@@ -805,11 +805,11 @@
             "id": 942312530,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T02:33:20Z",
-            "open_issues": 109,
+            "last_commit": "2026-11-01T17:42:17Z",
+            "open_issues": 100,
             "owner": "cocoindex-io",
             "repo": "cocoindex",
-            "stars": 11790,
+            "stars": 11799,
             "topics": [
               "agentic-data-framework",
               "ai",
@@ -847,8 +847,8 @@
             "id": 1230223069,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-31T05:24:04Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-01T18:03:23Z",
+            "open_issues": 21,
             "owner": "inite-ai",
             "repo": "inite-brain-service",
             "stars": 43,
@@ -917,7 +917,7 @@
             "open_issues": 1,
             "owner": "jawciu",
             "repo": "synapse",
-            "stars": 15,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
@@ -948,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T17:20:06.469Z",
+    "last_updated": "2026-11-01T18:03:28.280Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of SurrealDB resources, tools, utilities, and applications.",
@@ -960,7 +960,7 @@
       "open_issues": 4,
       "owner": "surrealdb",
       "repo": "awesome-surreal",
-      "stars": 571,
+      "stars": 572,
       "topics": [
         "awesome",
         "awesome-list",
