@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-11-03T15:49:32Z",
-            "open_issues": 424,
+            "open_issues": 430,
             "owner": "surrealdb",
             "repo": "surrealdb",
-            "stars": 33260,
+            "stars": 33272,
             "topics": [
               "backend-as-a-service",
               "cloud-database",
@@ -55,7 +55,7 @@
             "id": 479061200,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T16:57:53Z",
+            "last_commit": "2026-11-04T10:39:09Z",
             "open_issues": 6,
             "owner": "surrealdb",
             "repo": "surrealdb.js",
@@ -89,8 +89,8 @@
             "id": 479063090,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T10:55:52Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-04T14:42:22Z",
+            "open_issues": 6,
             "owner": "surrealdb",
             "repo": "surrealdb.go",
             "stars": 318,
@@ -120,8 +120,8 @@
             "id": 479060696,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T18:19:59Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-04T15:08:33Z",
+            "open_issues": 4,
             "owner": "surrealdb",
             "repo": "surrealdb.py",
             "stars": 270,
@@ -181,7 +181,7 @@
             "id": 540755247,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T13:56:41Z",
+            "last_commit": "2026-11-04T14:55:33Z",
             "open_issues": 2,
             "owner": "surrealdb",
             "repo": "surrealdb.java",
@@ -272,7 +272,7 @@
             "open_issues": 45,
             "owner": "surrealdb",
             "repo": "surrealist",
-            "stars": 1311,
+            "stars": 1309,
             "topics": [
               "authentication",
               "database",
@@ -650,27 +650,6 @@
         },
         {
           "node_type": "item",
-          "title": "surrealdb-valibot",
-          "description": "Re-usable valibot schema's for use with the JavaScript SDK.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Re-useable valibot schema's for use with SurrealDB sdk",
-            "homepage": null,
-            "id": 873056999,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-03-11T10:33:24Z",
-            "open_issues": 0,
-            "owner": "Astrolaxis",
-            "repo": "surrealdb-valibot",
-            "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T22:34:40.341Z"
-        },
-        {
-          "node_type": "item",
           "title": "sqlalchemy-surrealdb",
           "description": "A SQLAlchemy dialect for SurrealDB.",
           "children": [],
@@ -689,6 +668,27 @@
             "topics": []
           },
           "first_seen": "2026-09-12T15:46:24.798Z"
+        },
+        {
+          "node_type": "item",
+          "title": "surrealdb-valibot",
+          "description": "Re-usable valibot schema's for use with the JavaScript SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Re-useable valibot schema's for use with SurrealDB sdk",
+            "homepage": null,
+            "id": 873056999,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-03-11T10:33:24Z",
+            "open_issues": 0,
+            "owner": "Astrolaxis",
+            "repo": "surrealdb-valibot",
+            "stars": 2,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T22:34:40.341Z"
         }
       ],
       "title": "Libraries"
@@ -777,11 +777,11 @@
             "id": 876286167,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-01T21:49:31Z",
-            "open_issues": 193,
+            "last_commit": "2026-11-04T00:49:54Z",
+            "open_issues": 194,
             "owner": "lfnovo",
             "repo": "open-notebook",
-            "stars": 41496,
+            "stars": 41579,
             "topics": [
               "assistant",
               "learning",
@@ -805,11 +805,11 @@
             "id": 942312530,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T16:38:49Z",
-            "open_issues": 103,
+            "last_commit": "2026-11-04T16:49:26Z",
+            "open_issues": 102,
             "owner": "cocoindex-io",
             "repo": "cocoindex",
-            "stars": 11817,
+            "stars": 11822,
             "topics": [
               "agentic-data-framework",
               "ai",
@@ -917,7 +917,7 @@
             "open_issues": 1,
             "owner": "jawciu",
             "repo": "synapse",
-            "stars": 16,
+            "stars": 17,
             "topics": []
           },
           "first_seen": "2026-08-28T22:34:40.341Z"
@@ -948,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T19:44:40.430Z",
+    "last_updated": "2026-11-04T19:58:57.617Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of SurrealDB resources, tools, utilities, and applications.",
