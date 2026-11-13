@@ -19,7 +19,7 @@
             "open_issues": 438,
             "owner": "surrealdb",
             "repo": "surrealdb",
-            "stars": 33307,
+            "stars": 33311,
             "topics": [
               "backend-as-a-service",
               "cloud-database",
@@ -152,8 +152,8 @@
             "id": 534900484,
             "language": "C#",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T10:17:26Z",
-            "open_issues": 24,
+            "last_commit": "2026-11-13T14:45:22Z",
+            "open_issues": 23,
             "owner": "surrealdb",
             "repo": "surrealdb.net",
             "stars": 135,
@@ -777,11 +777,11 @@
             "id": 876286167,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-12T12:17:10Z",
-            "open_issues": 195,
+            "last_commit": "2026-11-13T19:44:23Z",
+            "open_issues": 134,
             "owner": "lfnovo",
             "repo": "open-notebook",
-            "stars": 41902,
+            "stars": 41936,
             "topics": [
               "assistant",
               "learning",
@@ -809,7 +809,7 @@
             "open_issues": 111,
             "owner": "cocoindex-io",
             "repo": "cocoindex",
-            "stars": 11887,
+            "stars": 11894,
             "topics": [
               "agentic-data-framework",
               "ai",
@@ -847,8 +847,8 @@
             "id": 1230223069,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-12T17:16:56Z",
-            "open_issues": 25,
+            "last_commit": "2026-11-13T18:22:08Z",
+            "open_issues": 27,
             "owner": "inite-ai",
             "repo": "inite-brain-service",
             "stars": 43,
@@ -948,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T20:21:01.656Z",
+    "last_updated": "2026-11-13T19:58:28.581Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of SurrealDB resources, tools, utilities, and applications.",
