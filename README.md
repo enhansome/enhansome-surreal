@@ -54,7 +54,7 @@ Built something with SurrealDB? [Add it to the list](CONTRIBUTING.md).
 
 ## Start here
 
-* [SurrealDB](https://github.com/surrealdb/surrealdb) ⭐ 33,315 | 🐛 445 | 🌐 Rust | 📅 2026-11-17 - The database itself: source, releases, and issue tracker.
+* [SurrealDB](https://github.com/surrealdb/surrealdb) ⭐ 33,319 | 🐛 444 | 🌐 Rust | 📅 2026-11-17 - The database itself: source, releases, and issue tracker.
 * [Documentation](https://surrealdb.com/docs) - Installation, SurrealQL reference, SDK guides, and deployment.
 * [SurrealDB Cloud](https://surrealdb.com/cloud) - Managed SurrealDB instances, from a free tier upwards.
 * [Docker image](https://hub.docker.com/r/surrealdb/surrealdb) - The official container image.
@@ -69,8 +69,8 @@ Built something with SurrealDB? [Add it to the list](CONTRIBUTING.md).
 | [Go](https://surrealdb.com/docs/reference/golang)             | [surrealdb.go](https://github.com/surrealdb/surrealdb.go) ⭐ 319 \| 🐛 6 \| 🌐 Go \| 📅 2026-11-05           | `go get github.com/surrealdb/surrealdb.go/v2` |
 | [Java](https://surrealdb.com/docs/reference/java)             | [surrealdb.java](https://github.com/surrealdb/surrealdb.java) ⭐ 90 \| 🐛 2 \| 🌐 Java \| 📅 2026-11-04      | `com.surrealdb:surrealdb`                     |
 | [Kotlin](https://surrealdb.com/docs/reference/kotlin)         | [surrealdb.kotlin](https://github.com/surrealdb/surrealdb.kotlin) ⭐ 4 \| 🐛 2 \| 🌐 Kotlin \| 📅 2026-09-07 | `com.surrealdb:kotlin`                        |
-| [.NET](https://surrealdb.com/docs/reference/dotnet)           | [surrealdb.net](https://github.com/surrealdb/surrealdb.net) ⭐ 135 \| 🐛 22 \| 🌐 C# \| 📅 2026-11-17        | `dotnet add package SurrealDb.Net`            |
-| [PHP](https://surrealdb.com/docs/reference/php)               | [surrealdb.php](https://github.com/surrealdb/surrealdb.php) ⭐ 68 \| 🐛 1 \| 🌐 PHP \| 📅 2026-11-11         | `composer require surrealdb/surrealdb.php`    |
+| [.NET](https://surrealdb.com/docs/reference/dotnet)           | [surrealdb.net](https://github.com/surrealdb/surrealdb.net) ⭐ 135 \| 🐛 24 \| 🌐 C# \| 📅 2026-11-18        | `dotnet add package SurrealDb.Net`            |
+| [PHP](https://surrealdb.com/docs/reference/php)               | [surrealdb.php](https://github.com/surrealdb/surrealdb.php) ⭐ 68 \| 🐛 1 \| 🌐 PHP \| 📅 2026-11-18         | `composer require surrealdb/surrealdb.php`    |
 | [Swift](https://surrealdb.com/docs/reference/swift)           | [surrealdb.swift](https://github.com/surrealdb/surrealdb.swift) ⭐ 9 \| 🐛 2 \| 🌐 Swift \| 📅 2026-10-30    | Swift Package Manager                         |
 | C                                                             | [surrealdb.c](https://github.com/surrealdb/surrealdb.c) ⭐ 24 \| 🐛 20 \| 🌐 C \| 📅 2026-10-29              | Build from source                             |
 
@@ -78,7 +78,7 @@ Built something with SurrealDB? [Add it to the list](CONTRIBUTING.md).
 
 ### Management interfaces
 
-* [SurrealDB Studio](https://github.com/surrealdb/surrealist) ⭐ 1,304 | 🐛 46 | 🌐 TypeScript | 📅 2026-11-12 - Official query editor, schema designer, and database explorer, formerly called Surrealist.
+* [SurrealDB Studio](https://github.com/surrealdb/surrealist) ⭐ 1,305 | 🐛 47 | 🌐 TypeScript | 📅 2026-11-18 - Official query editor, schema designer, and database explorer, formerly called Surrealist.
 * [Mongrel](https://www.visorcraft.com/mongrel) - Desktop workbench for SurrealDB 3.2 and later, with a SurrealQL editor, document and graph browsing, schema tools, and native archives.
 
 ### Schema and code generation
@@ -172,9 +172,9 @@ Built something with SurrealDB? [Add it to the list](CONTRIBUTING.md).
 
 ## Projects built on SurrealDB
 
-* [open-notebook](https://github.com/lfnovo/open-notebook) ⭐ 42,048 | 🐛 123 | 🌐 TypeScript | 📅 2026-11-17 - Open source alternative to NotebookLM.
-* [Podcasts to Knowledge](https://github.com/cocoindex-io/cocoindex/tree/main/examples/conversation_to_knowledge) ⭐ 11,906 | 🐛 107 | 🌐 Rust | 📅 2026-11-17 - Turn podcast and interview recordings into a knowledge graph with CocoIndex.
-* [Inite Brain](https://github.com/inite-ai/inite-brain-service) ⭐ 43 | 🐛 27 | 🌐 TypeScript | 📅 2026-11-17 - Memory layer for LLM agents: a bitemporal knowledge graph with hybrid vector, BM25, and multi-hop retrieval, served over MCP.
+* [open-notebook](https://github.com/lfnovo/open-notebook) ⭐ 42,066 | 🐛 124 | 🌐 TypeScript | 📅 2026-11-18 - Open source alternative to NotebookLM.
+* [Podcasts to Knowledge](https://github.com/cocoindex-io/cocoindex/tree/main/examples/conversation_to_knowledge) ⭐ 11,913 | 🐛 105 | 🌐 Rust | 📅 2026-11-18 - Turn podcast and interview recordings into a knowledge graph with CocoIndex.
+* [Inite Brain](https://github.com/inite-ai/inite-brain-service) ⭐ 43 | 🐛 26 | 🌐 TypeScript | 📅 2026-11-18 - Memory layer for LLM agents: a bitemporal knowledge graph with hybrid vector, BM25, and multi-hop retrieval, served over MCP.
 * [dead-reckoning](https://github.com/atwmarshall/dead-reckoning) ⭐ 34 | 🐛 3 | 🌐 Python | 📅 2026-09-14 - Navigate a Python codebase through a knowledge graph and resumable LangGraph agents.
 * [synapse](https://github.com/jawciu/synapse) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2026-10-22 - Turn written reflections into a knowledge graph and answer questions from it.
 * [taro](https://github.com/j-d0g/taro) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-10-29 - Agentic search harness: a LangGraph ReAct agent with vector, BM25, graph, and hybrid search tools.
@@ -279,4 +279,4 @@ From the [SurrealDB YouTube channel](https://www.youtube.com/@SurrealDB):
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
