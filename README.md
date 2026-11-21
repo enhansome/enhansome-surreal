@@ -54,7 +54,7 @@ Built something with SurrealDB? [Add it to the list](CONTRIBUTING.md).
 
 ## Start here
 
-* [SurrealDB](https://github.com/surrealdb/surrealdb) ⭐ 33,341 | 🐛 444 | 🌐 Rust | 📅 2026-11-17 - The database itself: source, releases, and issue tracker.
+* [SurrealDB](https://github.com/surrealdb/surrealdb) ⭐ 33,345 | 🐛 445 | 🌐 Rust | 📅 2026-11-17 - The database itself: source, releases, and issue tracker.
 * [Documentation](https://surrealdb.com/docs) - Installation, SurrealQL reference, SDK guides, and deployment.
 * [SurrealDB Cloud](https://surrealdb.com/cloud) - Managed SurrealDB instances, from a free tier upwards.
 * [Docker image](https://hub.docker.com/r/surrealdb/surrealdb) - The official container image.
@@ -78,7 +78,7 @@ Built something with SurrealDB? [Add it to the list](CONTRIBUTING.md).
 
 ### Management interfaces
 
-* [SurrealDB Studio](https://github.com/surrealdb/surrealist) ⭐ 1,304 | 🐛 46 | 🌐 TypeScript | 📅 2026-11-20 - Official query editor, schema designer, and database explorer, formerly called Surrealist.
+* [SurrealDB Studio](https://github.com/surrealdb/surrealist) ⭐ 1,304 | 🐛 47 | 🌐 TypeScript | 📅 2026-11-21 - Official query editor, schema designer, and database explorer, formerly called Surrealist.
 * [Mongrel](https://www.visorcraft.com/mongrel) - Desktop workbench for SurrealDB 3.2 and later, with a SurrealQL editor, document and graph browsing, schema tools, and native archives.
 
 ### Schema and code generation
@@ -125,7 +125,7 @@ Built something with SurrealDB? [Add it to the list](CONTRIBUTING.md).
 
 * [SurrealDB MCP Server](https://github.com/nsxdavid/surrealdb-mcp-server) ⭐ 39 | 🐛 5 | 🌐 JavaScript | 📅 2025-07-15 - Model Context Protocol server that lets AI assistants query and change a SurrealDB database.
 * [langchain-surrealdb](https://github.com/surrealdb/langchain-surrealdb) ⭐ 32 | 🐛 2 | 🌐 Python | 📅 2026-03-16 - Official LangChain integration for vector search and graph queries.
-* [Agent skills](https://github.com/surrealdb/agent-skills) ⭐ 28 | 🐛 0 | 📅 2026-09-29 - Official skills that teach coding agents SurrealQL and Agent Memory. [Documentation](https://surrealdb.com/docs/build/ai-agents/agent-skills).
+* [Agent skills](https://github.com/surrealdb/agent-skills) ⭐ 28 | 🐛 0 | 📅 2026-11-21 - Official skills that teach coding agents SurrealQL and Agent Memory. [Documentation](https://surrealdb.com/docs/build/ai-agents/agent-skills).
 * [langchain.js](https://github.com/surrealdb/langchain.js) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-10 - Official LangGraph.js adapter for SurrealDB and Agent Memory.
 
 ### Authentication
@@ -172,8 +172,8 @@ Built something with SurrealDB? [Add it to the list](CONTRIBUTING.md).
 
 ## Projects built on SurrealDB
 
-* [open-notebook](https://github.com/lfnovo/open-notebook) ⭐ 42,099 | 🐛 126 | 🌐 TypeScript | 📅 2026-11-18 - Open source alternative to NotebookLM.
-* [Podcasts to Knowledge](https://github.com/cocoindex-io/cocoindex/tree/main/examples/conversation_to_knowledge) ⭐ 11,921 | 🐛 108 | 🌐 Rust | 📅 2026-11-20 - Turn podcast and interview recordings into a knowledge graph with CocoIndex.
+* [open-notebook](https://github.com/lfnovo/open-notebook) ⭐ 42,116 | 🐛 127 | 🌐 TypeScript | 📅 2026-11-18 - Open source alternative to NotebookLM.
+* [Podcasts to Knowledge](https://github.com/cocoindex-io/cocoindex/tree/main/examples/conversation_to_knowledge) ⭐ 11,924 | 🐛 107 | 🌐 Rust | 📅 2026-11-21 - Turn podcast and interview recordings into a knowledge graph with CocoIndex.
 * [Inite Brain](https://github.com/inite-ai/inite-brain-service) ⭐ 43 | 🐛 26 | 🌐 TypeScript | 📅 2026-11-18 - Memory layer for LLM agents: a bitemporal knowledge graph with hybrid vector, BM25, and multi-hop retrieval, served over MCP.
 * [dead-reckoning](https://github.com/atwmarshall/dead-reckoning) ⭐ 34 | 🐛 3 | 🌐 Python | 📅 2026-09-14 - Navigate a Python codebase through a knowledge graph and resumable LangGraph agents.
 * [synapse](https://github.com/jawciu/synapse) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2026-10-22 - Turn written reflections into a knowledge graph and answer questions from it.
@@ -279,4 +279,4 @@ From the [SurrealDB YouTube channel](https://www.youtube.com/@SurrealDB):
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
