@@ -16,7 +16,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-11-20T10:25:54Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "surrealdb",
             "repo": "surrealdb.js",
             "stars": 357,
@@ -1179,10 +1179,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-18T12:36:53Z",
-            "open_issues": 127,
+            "open_issues": 129,
             "owner": "lfnovo",
             "repo": "open-notebook",
-            "stars": 42116,
+            "stars": 42134,
             "topics": [
               "assistant",
               "learning",
@@ -1210,7 +1210,7 @@
             "open_issues": 107,
             "owner": "cocoindex-io",
             "repo": "cocoindex",
-            "stars": 11924,
+            "stars": 11927,
             "topics": [
               "agentic-data-framework",
               "ai",
@@ -1343,7 +1343,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T19:42:56.534Z",
+    "last_updated": "2026-11-22T19:55:49.428Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of SurrealDB resources, tools, utilities, and applications.",
