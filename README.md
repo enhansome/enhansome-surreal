@@ -54,7 +54,7 @@ Built something with SurrealDB? [Add it to the list](CONTRIBUTING.md).
 
 ## Start here
 
-* [SurrealDB](https://github.com/surrealdb/surrealdb) ⭐ 33,351 | 🐛 454 | 🌐 Rust | 📅 2026-11-17 - The database itself: source, releases, and issue tracker.
+* [SurrealDB](https://github.com/surrealdb/surrealdb) ⭐ 33,354 | 🐛 458 | 🌐 Rust | 📅 2026-11-17 - The database itself: source, releases, and issue tracker.
 * [Documentation](https://surrealdb.com/docs) - Installation, SurrealQL reference, SDK guides, and deployment.
 * [SurrealDB Cloud](https://surrealdb.com/cloud) - Managed SurrealDB instances, from a free tier upwards.
 * [Docker image](https://hub.docker.com/r/surrealdb/surrealdb) - The official container image.
@@ -63,7 +63,7 @@ Built something with SurrealDB? [Add it to the list](CONTRIBUTING.md).
 
 | Language                                                      | Repository                                                                                                  | Install                                       |
 | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| [JavaScript](https://surrealdb.com/docs/reference/javascript) | [surrealdb.js](https://github.com/surrealdb/surrealdb.js) ⭐ 357 \| 🐛 14 \| 🌐 TypeScript \| 📅 2026-11-20  | `npm install surrealdb`                       |
+| [JavaScript](https://surrealdb.com/docs/reference/javascript) | [surrealdb.js](https://github.com/surrealdb/surrealdb.js) ⭐ 357 \| 🐛 16 \| 🌐 TypeScript \| 📅 2026-11-20  | `npm install surrealdb`                       |
 | [Python](https://surrealdb.com/docs/reference/python)         | [surrealdb.py](https://github.com/surrealdb/surrealdb.py) ⭐ 271 \| 🐛 15 \| 🌐 Python \| 📅 2026-11-23      | `pip install surrealdb`                       |
 | [Rust](https://surrealdb.com/docs/reference/rust)             | [surrealdb](https://crates.io/crates/surrealdb)                                                             | `cargo add surrealdb`                         |
 | [Go](https://surrealdb.com/docs/reference/golang)             | [surrealdb.go](https://github.com/surrealdb/surrealdb.go) ⭐ 318 \| 🐛 6 \| 🌐 Go \| 📅 2026-11-05           | `go get github.com/surrealdb/surrealdb.go/v2` |
@@ -95,7 +95,7 @@ Built something with SurrealDB? [Add it to the list](CONTRIBUTING.md).
 * [surrealdb\_extra](https://github.com/jakin010/surrealdb_extra) ⭐ 15 | 🐛 0 | 🌐 Rust | 📅 2026-11-05 - Query builder and ORM for Rust.
 * [surrealdb-zod](https://github.com/ShadowWolf308/surrealdb-zod) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-06-17 - Reusable Zod schemas for the JavaScript SDK.
 * [sqlalchemy-surrealdb](https://github.com/noctisynth/sqlalchemy-surrealdb) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-04-16 - SQLAlchemy dialect for SurrealDB.
-* [surrealdb-valibot](https://github.com/ShadowWolf308/surrealdb-valibot) ⭐ 2 | 🐛 1 | 🌐 TypeScript | 📅 2026-03-11 - Reusable Valibot schemas for the JavaScript SDK.
+* [surrealdb-valibot](https://github.com/ShadowWolf308/surrealdb-valibot) ⭐ 2 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-24 - Reusable Valibot schemas for the JavaScript SDK.
 * [surrealdb-extras](https://docs.rs/surrealdb-extras/latest/surrealdb_extras/) - Rust helpers that define namespaces, databases, and tables, and derive CRUD functions for structs.
 * [UnrealORM](https://unreal-orm.jimpex.dev) - TypeScript ORM designed around SurrealDB models and relations.
 
@@ -125,7 +125,7 @@ Built something with SurrealDB? [Add it to the list](CONTRIBUTING.md).
 
 * [SurrealDB MCP Server](https://github.com/nsxdavid/surrealdb-mcp-server) ⭐ 39 | 🐛 5 | 🌐 JavaScript | 📅 2025-07-15 - Model Context Protocol server that lets AI assistants query and change a SurrealDB database.
 * [langchain-surrealdb](https://github.com/surrealdb/langchain-surrealdb) ⭐ 32 | 🐛 2 | 🌐 Python | 📅 2026-03-16 - Official LangChain integration for vector search and graph queries.
-* [Agent skills](https://github.com/surrealdb/agent-skills) ⭐ 28 | 🐛 0 | 📅 2026-11-21 - Official skills that teach coding agents SurrealQL and Agent Memory. [Documentation](https://surrealdb.com/docs/build/ai-agents/agent-skills).
+* [Agent skills](https://github.com/surrealdb/agent-skills) ⭐ 29 | 🐛 0 | 📅 2026-11-24 - Official skills that teach coding agents SurrealQL and Agent Memory. [Documentation](https://surrealdb.com/docs/build/ai-agents/agent-skills).
 * [langchain.js](https://github.com/surrealdb/langchain.js) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-10 - Official LangGraph.js adapter for SurrealDB and Agent Memory.
 
 ### Authentication
@@ -165,6 +165,7 @@ Built something with SurrealDB? [Add it to the list](CONTRIBUTING.md).
 ### Interactive demos
 
 * [Agent Memory for financial services](https://surrealdb.com/explore/agent-memory-for-financial-services) - Agent Memory in a financial services setting, showing scopes and how facts change over time.
+* [Agent Memory use case](https://surrealdb.com/explore/agent-memory-use-case) - Shared memory for every agent and every person in your organisation, cited, kept current, and isolated with scopes, grants and lenses.
 * [Company brain](https://surrealdb.com/explore/company-brain) - A company knowledge base on SurrealDB and Agent Memory that agents and people query together.
 * [Credit downgrade exposure alerts](https://surrealdb.com/explore/use-case-credit-downgrade) - An agent traces exposure through the graph when a counterparty is downgraded.
 * [Financial services ontology](https://surrealdb.com/explore/financial-services-ontology) - Eight source systems mapped into one graph.
@@ -172,9 +173,9 @@ Built something with SurrealDB? [Add it to the list](CONTRIBUTING.md).
 
 ## Projects built on SurrealDB
 
-* [open-notebook](https://github.com/lfnovo/open-notebook) ⭐ 42,157 | 🐛 130 | 🌐 TypeScript | 📅 2026-11-18 - Open source alternative to NotebookLM.
-* [Podcasts to Knowledge](https://github.com/cocoindex-io/cocoindex/tree/main/examples/conversation_to_knowledge) ⭐ 11,931 | 🐛 108 | 🌐 Rust | 📅 2026-11-23 - Turn podcast and interview recordings into a knowledge graph with CocoIndex.
-* [Inite Brain](https://github.com/inite-ai/inite-brain-service) ⭐ 43 | 🐛 26 | 🌐 TypeScript | 📅 2026-11-18 - Memory layer for LLM agents: a bitemporal knowledge graph with hybrid vector, BM25, and multi-hop retrieval, served over MCP.
+* [open-notebook](https://github.com/lfnovo/open-notebook) ⭐ 42,183 | 🐛 131 | 🌐 TypeScript | 📅 2026-11-18 - Open source alternative to NotebookLM.
+* [Podcasts to Knowledge](https://github.com/cocoindex-io/cocoindex/tree/main/examples/conversation_to_knowledge) ⭐ 11,933 | 🐛 109 | 🌐 Rust | 📅 2026-11-24 - Turn podcast and interview recordings into a knowledge graph with CocoIndex.
+* [Inite Brain](https://github.com/inite-ai/inite-brain-service) ⭐ 43 | 🐛 26 | 🌐 TypeScript | 📅 2026-11-24 - Memory layer for LLM agents: a bitemporal knowledge graph with hybrid vector, BM25, and multi-hop retrieval, served over MCP.
 * [dead-reckoning](https://github.com/atwmarshall/dead-reckoning) ⭐ 34 | 🐛 3 | 🌐 Python | 📅 2026-09-14 - Navigate a Python codebase through a knowledge graph and resumable LangGraph agents.
 * [synapse](https://github.com/jawciu/synapse) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2026-10-22 - Turn written reflections into a knowledge graph and answer questions from it.
 * [taro](https://github.com/j-d0g/taro) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2026-10-29 - Agentic search harness: a LangGraph ReAct agent with vector, BM25, graph, and hybrid search tools.
