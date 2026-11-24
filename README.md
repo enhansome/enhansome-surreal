@@ -54,7 +54,7 @@ Built something with SurrealDB? [Add it to the list](CONTRIBUTING.md).
 
 ## Start here
 
-* [SurrealDB](https://github.com/surrealdb/surrealdb) ⭐ 33,348 | 🐛 453 | 🌐 Rust | 📅 2026-11-17 - The database itself: source, releases, and issue tracker.
+* [SurrealDB](https://github.com/surrealdb/surrealdb) ⭐ 33,351 | 🐛 454 | 🌐 Rust | 📅 2026-11-17 - The database itself: source, releases, and issue tracker.
 * [Documentation](https://surrealdb.com/docs) - Installation, SurrealQL reference, SDK guides, and deployment.
 * [SurrealDB Cloud](https://surrealdb.com/cloud) - Managed SurrealDB instances, from a free tier upwards.
 * [Docker image](https://hub.docker.com/r/surrealdb/surrealdb) - The official container image.
@@ -63,13 +63,13 @@ Built something with SurrealDB? [Add it to the list](CONTRIBUTING.md).
 
 | Language                                                      | Repository                                                                                                  | Install                                       |
 | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| [JavaScript](https://surrealdb.com/docs/reference/javascript) | [surrealdb.js](https://github.com/surrealdb/surrealdb.js) ⭐ 357 \| 🐛 10 \| 🌐 TypeScript \| 📅 2026-11-20  | `npm install surrealdb`                       |
-| [Python](https://surrealdb.com/docs/reference/python)         | [surrealdb.py](https://github.com/surrealdb/surrealdb.py) ⭐ 271 \| 🐛 10 \| 🌐 Python \| 📅 2026-11-20      | `pip install surrealdb`                       |
+| [JavaScript](https://surrealdb.com/docs/reference/javascript) | [surrealdb.js](https://github.com/surrealdb/surrealdb.js) ⭐ 357 \| 🐛 14 \| 🌐 TypeScript \| 📅 2026-11-20  | `npm install surrealdb`                       |
+| [Python](https://surrealdb.com/docs/reference/python)         | [surrealdb.py](https://github.com/surrealdb/surrealdb.py) ⭐ 271 \| 🐛 15 \| 🌐 Python \| 📅 2026-11-23      | `pip install surrealdb`                       |
 | [Rust](https://surrealdb.com/docs/reference/rust)             | [surrealdb](https://crates.io/crates/surrealdb)                                                             | `cargo add surrealdb`                         |
 | [Go](https://surrealdb.com/docs/reference/golang)             | [surrealdb.go](https://github.com/surrealdb/surrealdb.go) ⭐ 318 \| 🐛 6 \| 🌐 Go \| 📅 2026-11-05           | `go get github.com/surrealdb/surrealdb.go/v2` |
 | [Java](https://surrealdb.com/docs/reference/java)             | [surrealdb.java](https://github.com/surrealdb/surrealdb.java) ⭐ 90 \| 🐛 2 \| 🌐 Java \| 📅 2026-11-04      | `com.surrealdb:surrealdb`                     |
 | [Kotlin](https://surrealdb.com/docs/reference/kotlin)         | [surrealdb.kotlin](https://github.com/surrealdb/surrealdb.kotlin) ⭐ 4 \| 🐛 2 \| 🌐 Kotlin \| 📅 2026-09-07 | `com.surrealdb:kotlin`                        |
-| [.NET](https://surrealdb.com/docs/reference/dotnet)           | [surrealdb.net](https://github.com/surrealdb/surrealdb.net) ⭐ 135 \| 🐛 21 \| 🌐 C# \| 📅 2026-11-20        | `dotnet add package SurrealDb.Net`            |
+| [.NET](https://surrealdb.com/docs/reference/dotnet)           | [surrealdb.net](https://github.com/surrealdb/surrealdb.net) ⭐ 136 \| 🐛 21 \| 🌐 C# \| 📅 2026-11-20        | `dotnet add package SurrealDb.Net`            |
 | [PHP](https://surrealdb.com/docs/reference/php)               | [surrealdb.php](https://github.com/surrealdb/surrealdb.php) ⭐ 68 \| 🐛 1 \| 🌐 PHP \| 📅 2026-11-18         | `composer require surrealdb/surrealdb.php`    |
 | [Swift](https://surrealdb.com/docs/reference/swift)           | [surrealdb.swift](https://github.com/surrealdb/surrealdb.swift) ⭐ 9 \| 🐛 2 \| 🌐 Swift \| 📅 2026-10-30    | Swift Package Manager                         |
 | C                                                             | [surrealdb.c](https://github.com/surrealdb/surrealdb.c) ⭐ 24 \| 🐛 20 \| 🌐 C \| 📅 2026-10-29              | Build from source                             |
@@ -78,7 +78,7 @@ Built something with SurrealDB? [Add it to the list](CONTRIBUTING.md).
 
 ### Management interfaces
 
-* [SurrealDB Studio](https://github.com/surrealdb/surrealist) ⭐ 1,304 | 🐛 47 | 🌐 TypeScript | 📅 2026-11-21 - Official query editor, schema designer, and database explorer, formerly called Surrealist.
+* [SurrealDB Studio](https://github.com/surrealdb/surrealist) ⭐ 1,305 | 🐛 47 | 🌐 TypeScript | 📅 2026-11-21 - Official query editor, schema designer, and database explorer, formerly called Surrealist.
 * [Mongrel](https://www.visorcraft.com/mongrel) - Desktop workbench for SurrealDB 3.2 and later, with a SurrealQL editor, document and graph browsing, schema tools, and native archives.
 
 ### Schema and code generation
@@ -172,8 +172,8 @@ Built something with SurrealDB? [Add it to the list](CONTRIBUTING.md).
 
 ## Projects built on SurrealDB
 
-* [open-notebook](https://github.com/lfnovo/open-notebook) ⭐ 42,134 | 🐛 129 | 🌐 TypeScript | 📅 2026-11-18 - Open source alternative to NotebookLM.
-* [Podcasts to Knowledge](https://github.com/cocoindex-io/cocoindex/tree/main/examples/conversation_to_knowledge) ⭐ 11,927 | 🐛 107 | 🌐 Rust | 📅 2026-11-21 - Turn podcast and interview recordings into a knowledge graph with CocoIndex.
+* [open-notebook](https://github.com/lfnovo/open-notebook) ⭐ 42,157 | 🐛 130 | 🌐 TypeScript | 📅 2026-11-18 - Open source alternative to NotebookLM.
+* [Podcasts to Knowledge](https://github.com/cocoindex-io/cocoindex/tree/main/examples/conversation_to_knowledge) ⭐ 11,931 | 🐛 108 | 🌐 Rust | 📅 2026-11-23 - Turn podcast and interview recordings into a knowledge graph with CocoIndex.
 * [Inite Brain](https://github.com/inite-ai/inite-brain-service) ⭐ 43 | 🐛 26 | 🌐 TypeScript | 📅 2026-11-18 - Memory layer for LLM agents: a bitemporal knowledge graph with hybrid vector, BM25, and multi-hop retrieval, served over MCP.
 * [dead-reckoning](https://github.com/atwmarshall/dead-reckoning) ⭐ 34 | 🐛 3 | 🌐 Python | 📅 2026-09-14 - Navigate a Python codebase through a knowledge graph and resumable LangGraph agents.
 * [synapse](https://github.com/jawciu/synapse) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2026-10-22 - Turn written reflections into a knowledge graph and answer questions from it.
@@ -279,4 +279,4 @@ From the [SurrealDB YouTube channel](https://www.youtube.com/@SurrealDB):
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
