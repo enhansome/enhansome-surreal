@@ -112,7 +112,7 @@
             "id": 540755247,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T14:55:33Z",
+            "last_commit": "2026-11-25T11:09:42Z",
             "open_issues": 2,
             "owner": "surrealdb",
             "repo": "surrealdb.java",
@@ -280,8 +280,8 @@
                 "id": 577076286,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-21T08:20:10Z",
-                "open_issues": 47,
+                "last_commit": "2026-11-25T13:43:13Z",
+                "open_issues": 48,
                 "owner": "surrealdb",
                 "repo": "surrealist",
                 "stars": 1305,
@@ -847,6 +847,47 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Authorizer",
+              "description": "Open-source, self-hosted authentication server that can keep its data in SurrealDB and sign users in for SurrealDB record access.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login page and Admin panel out of the box.",
+                "homepage": "https://authorizer.dev",
+                "id": 373163805,
+                "language": "Go",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-25T07:48:56Z",
+                "open_issues": 59,
+                "owner": "authorizerdev",
+                "repo": "authorizer",
+                "stars": 2126,
+                "topics": [
+                  "2fa",
+                  "auth",
+                  "authentication",
+                  "authorization",
+                  "docker",
+                  "golang",
+                  "graphdb",
+                  "graphql",
+                  "hacktoberfest",
+                  "magic-link",
+                  "microservice",
+                  "nosql",
+                  "oauth2",
+                  "role-based-access-control",
+                  "security",
+                  "social-logins",
+                  "sql",
+                  "typescript",
+                  "user-privileges"
+                ]
+              },
+              "first_seen": "2026-11-25T21:56:33.806Z"
+            },
+            {
+              "node_type": "item",
               "title": "surreal-better-auth",
               "description": "SurrealDB adapter for Better Auth.",
               "children": [],
@@ -1179,10 +1220,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-11-18T12:36:53Z",
-            "open_issues": 131,
+            "open_issues": 132,
             "owner": "lfnovo",
             "repo": "open-notebook",
-            "stars": 42183,
+            "stars": 42208,
             "topics": [
               "assistant",
               "learning",
@@ -1206,11 +1247,11 @@
             "id": 942312530,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T00:48:00Z",
-            "open_issues": 109,
+            "last_commit": "2026-11-25T09:31:08Z",
+            "open_issues": 106,
             "owner": "cocoindex-io",
             "repo": "cocoindex",
-            "stars": 11933,
+            "stars": 11937,
             "topics": [
               "agentic-data-framework",
               "ai",
@@ -1343,7 +1384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T22:43:03.077Z",
+    "last_updated": "2026-11-25T21:56:33.806Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of SurrealDB resources, tools, utilities, and applications.",
@@ -1351,7 +1392,7 @@
       "id": 597145673,
       "language": "TypeScript",
       "license": "CC0-1.0",
-      "last_commit": "2026-11-24T15:12:32Z",
+      "last_commit": "2026-11-25T13:50:21Z",
       "open_issues": 3,
       "owner": "surrealdb",
       "repo": "awesome-surreal",
@@ -1364,7 +1405,7 @@
         "surrealdb"
       ]
     },
-    "original_repository_sha": "af7d2c808b275b64c1da1544bfbc2368a178c9f1",
+    "original_repository_sha": "b95a2d4d1e8b069bf523a2ca04047c9e657cb703",
     "enhanced_repository": "enhansome/enhansome-surreal",
     "enhanced_repository_description": null,
     "title": "Awesome SurrealDB with stars"

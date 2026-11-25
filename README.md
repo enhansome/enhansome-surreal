@@ -54,7 +54,7 @@ Built something with SurrealDB? [Add it to the list](CONTRIBUTING.md).
 
 ## Start here
 
-* [SurrealDB](https://github.com/surrealdb/surrealdb) ⭐ 33,354 | 🐛 458 | 🌐 Rust | 📅 2026-11-17 - The database itself: source, releases, and issue tracker.
+* [SurrealDB](https://github.com/surrealdb/surrealdb) ⭐ 33,355 | 🐛 458 | 🌐 Rust | 📅 2026-11-17 - The database itself: source, releases, and issue tracker.
 * [Documentation](https://surrealdb.com/docs) - Installation, SurrealQL reference, SDK guides, and deployment.
 * [SurrealDB Cloud](https://surrealdb.com/cloud) - Managed SurrealDB instances, from a free tier upwards.
 * [Docker image](https://hub.docker.com/r/surrealdb/surrealdb) - The official container image.
@@ -67,7 +67,7 @@ Built something with SurrealDB? [Add it to the list](CONTRIBUTING.md).
 | [Python](https://surrealdb.com/docs/reference/python)         | [surrealdb.py](https://github.com/surrealdb/surrealdb.py) ⭐ 271 \| 🐛 15 \| 🌐 Python \| 📅 2026-11-23      | `pip install surrealdb`                       |
 | [Rust](https://surrealdb.com/docs/reference/rust)             | [surrealdb](https://crates.io/crates/surrealdb)                                                             | `cargo add surrealdb`                         |
 | [Go](https://surrealdb.com/docs/reference/golang)             | [surrealdb.go](https://github.com/surrealdb/surrealdb.go) ⭐ 318 \| 🐛 6 \| 🌐 Go \| 📅 2026-11-05           | `go get github.com/surrealdb/surrealdb.go/v2` |
-| [Java](https://surrealdb.com/docs/reference/java)             | [surrealdb.java](https://github.com/surrealdb/surrealdb.java) ⭐ 90 \| 🐛 2 \| 🌐 Java \| 📅 2026-11-04      | `com.surrealdb:surrealdb`                     |
+| [Java](https://surrealdb.com/docs/reference/java)             | [surrealdb.java](https://github.com/surrealdb/surrealdb.java) ⭐ 90 \| 🐛 2 \| 🌐 Java \| 📅 2026-11-25      | `com.surrealdb:surrealdb`                     |
 | [Kotlin](https://surrealdb.com/docs/reference/kotlin)         | [surrealdb.kotlin](https://github.com/surrealdb/surrealdb.kotlin) ⭐ 4 \| 🐛 2 \| 🌐 Kotlin \| 📅 2026-09-07 | `com.surrealdb:kotlin`                        |
 | [.NET](https://surrealdb.com/docs/reference/dotnet)           | [surrealdb.net](https://github.com/surrealdb/surrealdb.net) ⭐ 136 \| 🐛 21 \| 🌐 C# \| 📅 2026-11-20        | `dotnet add package SurrealDb.Net`            |
 | [PHP](https://surrealdb.com/docs/reference/php)               | [surrealdb.php](https://github.com/surrealdb/surrealdb.php) ⭐ 68 \| 🐛 1 \| 🌐 PHP \| 📅 2026-11-18         | `composer require surrealdb/surrealdb.php`    |
@@ -78,7 +78,7 @@ Built something with SurrealDB? [Add it to the list](CONTRIBUTING.md).
 
 ### Management interfaces
 
-* [SurrealDB Studio](https://github.com/surrealdb/surrealist) ⭐ 1,305 | 🐛 47 | 🌐 TypeScript | 📅 2026-11-21 - Official query editor, schema designer, and database explorer, formerly called Surrealist.
+* [SurrealDB Studio](https://github.com/surrealdb/surrealist) ⭐ 1,305 | 🐛 48 | 🌐 TypeScript | 📅 2026-11-25 - Official query editor, schema designer, and database explorer, formerly called Surrealist.
 * [Mongrel](https://www.visorcraft.com/mongrel) - Desktop workbench for SurrealDB 3.2 and later, with a SurrealQL editor, document and graph browsing, schema tools, and native archives.
 
 ### Schema and code generation
@@ -130,6 +130,7 @@ Built something with SurrealDB? [Add it to the list](CONTRIBUTING.md).
 
 ### Authentication
 
+* [Authorizer](https://github.com/authorizerdev/authorizer) ⭐ 2,126 | 🐛 59 | 🌐 Go | 📅 2026-11-25 - Open-source, self-hosted authentication server that can keep its data in SurrealDB and sign users in for SurrealDB record access.
 * [surreal-better-auth](https://github.com/oskar-gmerek/surreal-better-auth) ⭐ 79 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-31 - SurrealDB adapter for Better Auth.
 
 ### Frameworks and platforms
@@ -173,8 +174,8 @@ Built something with SurrealDB? [Add it to the list](CONTRIBUTING.md).
 
 ## Projects built on SurrealDB
 
-* [open-notebook](https://github.com/lfnovo/open-notebook) ⭐ 42,183 | 🐛 131 | 🌐 TypeScript | 📅 2026-11-18 - Open source alternative to NotebookLM.
-* [Podcasts to Knowledge](https://github.com/cocoindex-io/cocoindex/tree/main/examples/conversation_to_knowledge) ⭐ 11,933 | 🐛 109 | 🌐 Rust | 📅 2026-11-24 - Turn podcast and interview recordings into a knowledge graph with CocoIndex.
+* [open-notebook](https://github.com/lfnovo/open-notebook) ⭐ 42,208 | 🐛 132 | 🌐 TypeScript | 📅 2026-11-18 - Open source alternative to NotebookLM.
+* [Podcasts to Knowledge](https://github.com/cocoindex-io/cocoindex/tree/main/examples/conversation_to_knowledge) ⭐ 11,937 | 🐛 106 | 🌐 Rust | 📅 2026-11-25 - Turn podcast and interview recordings into a knowledge graph with CocoIndex.
 * [Inite Brain](https://github.com/inite-ai/inite-brain-service) ⭐ 43 | 🐛 26 | 🌐 TypeScript | 📅 2026-11-24 - Memory layer for LLM agents: a bitemporal knowledge graph with hybrid vector, BM25, and multi-hop retrieval, served over MCP.
 * [dead-reckoning](https://github.com/atwmarshall/dead-reckoning) ⭐ 34 | 🐛 3 | 🌐 Python | 📅 2026-09-14 - Navigate a Python codebase through a knowledge graph and resumable LangGraph agents.
 * [synapse](https://github.com/jawciu/synapse) ⭐ 16 | 🐛 1 | 🌐 Python | 📅 2026-10-22 - Turn written reflections into a knowledge graph and answer questions from it.
@@ -201,6 +202,7 @@ Built something with SurrealDB? [Add it to the list](CONTRIBUTING.md).
 * [Multi-tenant RBAC with SurrealDB](https://dev.to/sebastian_wessel/series/24535) - Four-part series on tenants, roles, and permissions as a graph. By Sebastian Wessel. **Recipe:** [Multi-tenant role-based access](https://surrealdb.com/docs/explore/tutorials/cookbook/multi-tenant-rbac).
 * [Setting up an invite system](https://mord-blog.vercel.app/articles/surrealdb-invitation-system) - Invitation codes with record access. By Mordechai Hadad. **Recipe:** [Invitation sign-in](https://surrealdb.com/docs/explore/tutorials/cookbook/invitation-sign-in).
 * [Simple API with Gin and SurrealDB](https://atoo.hashnode.dev/simple-api-with-gingonic-and-surrealdb) - REST API in Go. By Atharva Deshpande. **Recipe:** [An HTTP API in the database](https://surrealdb.com/docs/explore/tutorials/cookbook/http-api-in-the-database).
+* [Use Authorizer as the authentication provider for SurrealDB](https://blog.authorizer.dev/use-authorizer-as-the-authentication-provider-for-surrealdb) - Sign users in with a self-hosted Authorizer and query SurrealDB directly with their token, with per-user and role-based table permissions. By Lakhan Samani.
 
 ### Videos
 
@@ -280,4 +282,4 @@ From the [SurrealDB YouTube channel](https://www.youtube.com/@SurrealDB):
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
