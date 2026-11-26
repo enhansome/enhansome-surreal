@@ -85,7 +85,7 @@
             "open_issues": 6,
             "owner": "surrealdb",
             "repo": "surrealdb.go",
-            "stars": 318,
+            "stars": 319,
             "topics": [
               "database",
               "database-connector",
@@ -857,8 +857,8 @@
                 "id": 373163805,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-25T07:48:56Z",
-                "open_issues": 59,
+                "last_commit": "2026-11-26T15:07:58Z",
+                "open_issues": 47,
                 "owner": "authorizerdev",
                 "repo": "authorizer",
                 "stars": 2126,
@@ -1223,7 +1223,7 @@
             "open_issues": 132,
             "owner": "lfnovo",
             "repo": "open-notebook",
-            "stars": 42208,
+            "stars": 42249,
             "topics": [
               "assistant",
               "learning",
@@ -1247,11 +1247,11 @@
             "id": 942312530,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T09:31:08Z",
-            "open_issues": 106,
+            "last_commit": "2026-11-26T21:41:19Z",
+            "open_issues": 109,
             "owner": "cocoindex-io",
             "repo": "cocoindex",
-            "stars": 11937,
+            "stars": 11944,
             "topics": [
               "agentic-data-framework",
               "ai",
@@ -1289,7 +1289,7 @@
             "id": 1230223069,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-24T04:05:00Z",
+            "last_commit": "2026-11-26T17:47:04Z",
             "open_issues": 26,
             "owner": "inite-ai",
             "repo": "inite-brain-service",
@@ -1384,7 +1384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T21:56:33.806Z",
+    "last_updated": "2026-11-26T21:51:54.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of SurrealDB resources, tools, utilities, and applications.",
